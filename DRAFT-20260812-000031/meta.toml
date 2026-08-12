@@ -1,0 +1,13 @@
+kind = "draft"
+draft_id = "DRAFT-20260812-000031"
+subject = "GitHub Models is now retired*"
+created_at = "2026-08-12T15:27:00.171375529+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 10338
+tokens_out = 755
+sources = [
+  "https://abdulkadersafi.com/blog/github-models-is-being-retired-what-it-means-and-where-to-go",
+  "https://blog.dante.company/en/articles/github-models-retirement-migration-2026-07-02",
+  "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
+  "https://microsoft.ai/news/hill-climbing-mai-models-for-github-copilot-and-excel/",
+]
