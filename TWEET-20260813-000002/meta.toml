@@ -1,0 +1,13 @@
+kind = "tweet"
+tweet_id = "TWEET-20260813-000002"
+subject = "Interchouette project itcy"
+created_at = "2026-08-13T20:03:10.790239112+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 2745
+tokens_out = 90
+cite = "https://github.com/Interchouette-ITC/itcy"
+quote_tweet_id = ""
+sources = [
+  "https://interchouette.net/",
+  "https://interchouette.net/CV/",
+]
