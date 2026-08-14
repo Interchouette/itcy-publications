@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000004"
+subject = "itcy first tweet"
+created_at = "2026-08-14T11:54:02.812279576+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 2974
+tokens_out = 75
+cite = "https://github.com/Interchouette"
+quote_tweet_id = ""
+sources = [
+  "https://github.com/Interchouette",
+  "https://interchouette.net/",
+  "https://interchouette.net/CV/",
+]
