@@ -1,0 +1,15 @@
+kind = "draft"
+draft_id = "DRAFT-20260815-000049"
+subject = "GitHub publishes written LLM contribution policy for public repos"
+created_at = "2026-08-15T16:51:25.102371788+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 14473
+tokens_out = 797
+sources = [
+  "https://lwn.net/Articles/1087326",
+  "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+  "https://www.unite.ai/rust-adopts-a-formal-llm-policy-for-its-main-repository/",
+  "https://techtimes.com/articles/322384/20260731/copyright-void-gcc-bans-llm-derived-code-protect-gplv3-license-chain.htm",
+  "https://bostoninstituteofanalytics.org/blog/top-5-llm-github-repos-every-ai-ml-learner-must-explore/",
+  "https://sebastianraschka.com/blog/2026/llms-from-scratch-reaches-100000-github-stars.html",
+]
