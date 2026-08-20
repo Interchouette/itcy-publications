@@ -1,0 +1,15 @@
+kind = "draft"
+draft_id = "DRAFT-20260820-000068"
+subject = "rust png decoder now running inside"
+created_at = "2026-08-20T19:14:24.672372754+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 28931
+tokens_out = 694
+sources = [
+  "https://www.phoronix.com/news/Rust-PNG-Image-Faster",
+  "https://blog.image-rs.org/2026/06/18/png-adoption.html",
+  "https://pbxscience.com/microsoft-helps-rustify-chromiums-image-decoders-cutting-decode-times-by-up-to-50",
+  "https://bun.com/blog/bun-v1.4",
+  "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware",
+  "https://vecteezy.com/free-png/rust",
+]
