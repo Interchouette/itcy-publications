@@ -1,0 +1,14 @@
+kind = "draft"
+draft_id = "DRAFT-20260817-000058"
+subject = "llms finding real memory safety bugs"
+created_at = "2026-08-17T16:06:36.220115406+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 23268
+tokens_out = 1025
+sources = [
+  "https://shnatsel.medium.com/the-unreasonable-effectiveness-of-llms-for-auditing-rust-code-d4df8bf0afd3",
+  "https://www.microsoft.com/en-us/research/publication/llm-assistance-for-memory-safety",
+  "https://www.sei.cmu.edu/blog/ai-powered-memory-safety-with-the-pointer-ownership-model",
+  "https://wholetomato.com/blog/c26-memory-safety-what-actually-ships-for-existing-code",
+  "https://memorysafety.org/blog/vulns-and-llms",
+]
