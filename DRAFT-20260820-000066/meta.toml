@@ -1,0 +1,13 @@
+kind = "draft"
+draft_id = "DRAFT-20260820-000066"
+subject = "WebMCP"
+created_at = "2026-08-20T02:15:10.567041792+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 4624
+tokens_out = 312
+sources = [
+  "https://www.spronta.com/blog/state-of-webmcp-july-2026",
+  "https://webmcp-checker.com/blog/complete-webmcp-implementation-guide-2026",
+  "https://nohacks.co/blog/what-is-webmcp",
+  "https://www.infoq.com/news/2026/08/cloudflare-webmcp",
+]
