@@ -1,0 +1,13 @@
+kind = "draft"
+draft_id = "DRAFT-20260821-000076"
+subject = "inference five best practices successful applications"
+created_at = "2026-08-21T16:18:23.043782947+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 13383
+tokens_out = 593
+sources = [
+  "https://www.infoworld.com/article/4210689/ai-inference-5-best-practices.html",
+  "https://www.techrepublic.com/article/ai-inference-5-best-practices-for-successful-applications",
+  "https://www.zdnet.com/article/ai-inference-5-best-practices-for-successful-applications",
+  "https://github.com",
+]
