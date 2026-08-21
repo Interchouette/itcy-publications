@@ -1,0 +1,15 @@
+kind = "draft"
+draft_id = "DRAFT-20260821-000078"
+subject = "attribution problem gets worse models scale"
+created_at = "2026-08-21T16:40:06.349562635+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 29441
+tokens_out = 775
+sources = [
+  "https://www.computerworld.com/article/4211283/ais-attribution-problem-gets-worse-as-models-scale.html",
+  "https://nature.com/articles/s41467-026-75667-5",
+  "https://ritnerdigital.com/blog/why-marketing-attribution-breaks-at-scale",
+  "https://techbuzz.ai/articles/openai-s-astra-solves-10-unsolvable-math-problems-field-reels",
+  "https://adstellar.ai/blog/marketing-attribution-models",
+  "https://appsflyer.com/blog/measurement-analytics/marketing-attribution",
+]
