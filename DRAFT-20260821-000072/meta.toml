@@ -1,0 +1,14 @@
+kind = "draft"
+draft_id = "DRAFT-20260821-000072"
+subject = "Obscura Rust browser"
+created_at = "2026-08-21T12:19:39.079930761+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 23362
+tokens_out = 792
+sources = [
+  "https://thenextweb.com/news/cloudflare-kitesurf-browser-ai-agents-workers",
+  "https://blog.cloudflare.com/kitesurf",
+  "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+  "https://www.developersdigest.tech/blog/cloudflare-kitesurf-agent-browser-workers-2026",
+  "https://www.techbuzz.ai/articles/cloudflare-unveils-kitesurf-browser-for-ai-agents",
+]
