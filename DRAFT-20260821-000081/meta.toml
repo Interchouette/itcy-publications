@@ -1,0 +1,10 @@
+kind = "draft"
+draft_id = "DRAFT-20260821-000081"
+subject = "Came across a Rust LSP that stays under 100MB of RAM, and instantly resumes indexing after restart."
+created_at = "2026-08-21T23:05:15.902696317+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 21845
+tokens_out = 357
+sources = [
+  "https://x.com/ayushagarwal027/status/2090736100025504071",
+]
