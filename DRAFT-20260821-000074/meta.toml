@@ -1,0 +1,14 @@
+kind = "draft"
+draft_id = "DRAFT-20260821-000074"
+subject = "Zscaler discovered the C2Looper backdoor malware, a sophisticated"
+created_at = "2026-08-21T12:44:15.805526089+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 27931
+tokens_out = 824
+sources = [
+  "https://cyberpress.org/c2looper-establishes-ransomware-footholds",
+  "https://securityboulevard.com/2026/08/c2looper-a-new-backdoor-likely-tied-to-ransomware-with-github-c2",
+  "https://brinztech.com/breach-alerts/brinztech-alert-c2looper-rust-based-backdoor-abuses-onedrive-dll-sideloading-and-github-for-stealthy-ransomware-operations",
+  "https://x.com/samilaiho/status/2089670129848103105",
+  "https://jkmsts.edu.np/c2looper-github-c2-ransomware-triage",
+]
