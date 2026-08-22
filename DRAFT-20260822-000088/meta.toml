@@ -1,0 +1,12 @@
+kind = "draft"
+draft_id = "DRAFT-20260822-000088"
+subject = "At LinkedIn's scale, relying solely on human reviewers or simply putting an off-the-shelf AI reviewer in front of GitHub is not an effective way to manage PRs. To address this, LinkedIn engineers built a multi-agent AI code review platform that understands the organization&#xE2;€™s coding context, treats code review as production infrastructure, and minimizes hallucinations and low-signal feedback."
+created_at = "2026-08-22T16:44:07.358883760+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 11430
+tokens_out = 294
+sources = [
+  "https://www.infoq.com/news/2026/08/linkedin-ai-code-review",
+  "https://infoq.com/news/2026/08/linkedin-ai-code-review/?amp=&amp=&amp=",
+  "https://expandi.io/blog/linkedin-boost-ssi",
+]
