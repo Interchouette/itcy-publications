@@ -1,7 +1,5 @@
 Draft ID: DRAFT-20260822-000089
 
-InfoWorld:
-
 The problem with Opus is not just its quirks - it is the cost of fixing them. Repeated corrections in AI coding tools are sapping time, morale, and focus for enterprise teams. It is not only syntax; it is the friction of constant rework. 📜
 
 Builders are asking a harder question: what if the tool learned from its mistakes instead of forcing us to repeat the lesson? The hidden cost is not just time spent correcting - it is trust eroded when tools do not grasp the patterns of real-world code. 🦉
