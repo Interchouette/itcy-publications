@@ -1,0 +1,12 @@
+kind = "draft"
+draft_id = "DRAFT-20260822-000089"
+subject = "Language problems that require repeated correction could create productivity drag, operational risks, and hidden costs for enterprise development teams, analysts say."
+created_at = "2026-08-22T16:47:45.474428449+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 11330
+tokens_out = 295
+sources = [
+  "https://www.infoworld.com/article/4211958/anthropics-opus-language-problems-may-be-creating-a-hidden-cost-for-ai-coding.html",
+  "https://upbility.net/blogs/news/understanding-language-processing-problems-signs-causes-and-support",
+  "https://www.sciencedirect.com/science/article/pii/S0360131523002439",
+]
