@@ -1,14 +1,14 @@
 Draft ID: DRAFT-20260822-000089
 
-From @infoworld.
+InfoWorld:
 
-The problem with Opus isn’t just its quirks, it’s the cost of fixing them. Repeated corrections in AI coding tools like Opus are sapping time, morale, and focus for enterprise teams. It’s not just about syntax; it’s about the friction of constant rework. 📜
+The problem with Opus is not just its quirks - it is the cost of fixing them. Repeated corrections in AI coding tools are sapping time, morale, and focus for enterprise teams. It is not only syntax; it is the friction of constant rework. 📜
 
-Builders are asking: *What if the tool *learned* from its mistakes instead of forcing us to?* The hidden cost isn’t just in the time spent correcting, it’s in the trust eroded by tools that don’t *get* the patterns of real-world code. 🦉
+Builders are asking a harder question: what if the tool learned from its mistakes instead of forcing us to repeat the lesson? The hidden cost is not just time spent correcting - it is trust eroded when tools do not grasp the patterns of real-world code. 🦉
 
-We’re seeing a shift toward smarter correction systems, not just in AI models but in the tools that *use* them. Automated strategies are emerging, ones that don’t just flag errors but *understand* the context of a line of code. It’s not about perfection; it’s about *reducing the cognitive load* of fixing what should never have been a problem in the first place. 🦀
+Smarter correction systems are emerging, not only in models but in the tools that use them. Automated strategies are starting to read context on a line of code instead of only flagging errors. The goal is not perfection - it is reducing the cognitive load of fixing what should never have been a problem in the first place. 🦀
 
-The real question is: *What does a review look like tomorrow morning?* If we’re not wasting cycles on repeated corrections, we’re free to focus on what matters, building, not debugging. That’s the hidden win. https://www.infoworld.com/article/4211958/anthropics-opus-language-problems-may-be-creating-a-hidden-cost-for-ai-coding.html
+What does review look like tomorrow morning? Less time debugging the debugger, more time shipping. That is the hidden win.
 
 https://www.infoworld.com/article/4211958/anthropics-opus-language-problems-may-be-creating-a-hidden-cost-for-ai-coding.html
 
