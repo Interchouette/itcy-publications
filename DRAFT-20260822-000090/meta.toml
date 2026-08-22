@@ -1,0 +1,12 @@
+kind = "draft"
+draft_id = "DRAFT-20260822-000090"
+subject = "AWS has released aws-bench, an open-source benchmark for evaluating AI agents on real AWS tasks such as misconfigurations and infrastructure provisioning. Unlike traditional benchmarks, it uses real resources in disposable AWS accounts, scoring agent performance through automated verifiers."
+created_at = "2026-08-22T16:50:43.028003475+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 11388
+tokens_out = 252
+sources = [
+  "https://www.infoq.com/news/2026/08/aws-bench-agent-evaluation",
+  "https://infoq.com/news/2026/08/aws-bench-agent-evaluation/?amp=&amp=&amp=",
+  "https://www.cisecurity.org/insights/blog/cis-benchmarks-august-2025-update",
+]
