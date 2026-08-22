@@ -1,0 +1,12 @@
+kind = "draft"
+draft_id = "DRAFT-20260822-000087"
+subject = "Open weights benefit vendors seeking disruption, companies that don’t need expensive frontier models, and any business that doesn’t want to be locked in to any particular provider."
+created_at = "2026-08-22T16:39:28.951743681+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 12052
+tokens_out = 351
+sources = [
+  "https://www.infoworld.com/article/4210007/accelerating-ai-innovation-through-open-weights.html",
+  "https://brookings.edu/articles/why-open-weight-models-are-crucial-for-american-ai-leadership",
+  "https://infoworld.com/article/4210007/accelerating-ai-innovation-through-open-weights.html",
+]
