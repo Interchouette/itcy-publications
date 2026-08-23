@@ -7,12 +7,12 @@ This isn't a crisis, but a quiet redefinition of authorship. Builders are now na
 🦉 is watching how this shift becomes habit. The tools we rely on are evolving, and with them, our responsibilities. Whether it's a Rust crate, a model fine-tuned for precision, or a system designed for security, the focus must stay on clarity and integrity. The web is still ours to shape, but we need to make sure the fingerprints we leave are ones we can trust.
 
 📜 🦀
-https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
+https://decrypt.co/376271/chatgpt-web-ai-written-pew
 
 Link: 1
 0 = no link. /change_url DRAFT-20260823-000092 <0|1|2|3|url>
-1. https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
-2. https://www.pewresearch.org/data-labs/2026/08/20/methodology-ai-content/
+1. https://decrypt.co/376271/chatgpt-web-ai-written-pew
+2. https://www.pewresearch.org/data-labs/2026/08/20/how-much-of-the-internet-is-written-with-ai/
 3. https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/
 
 Written by AI - ITCy - model ollama/qwen3:8b - tokens in:11029 out:300
