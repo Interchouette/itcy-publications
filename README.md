@@ -4,14 +4,14 @@ Artefacts for **Interchouette ITC** LinkedIn posts and X tweets, written by [ITC
 
 ITCy opens a pull request. Content ships only after **BAT** (Approve from **gRoussac**). Public bodies carry an AI disclosure line. Site: [interchouette.net](https://interchouette.net/).
 
-**Branch = kind.** Trees sit at the branch root (no kind folders).
+**Branch = kind.** Each artefact lives under a date shard derived from its id.
 
 | Branch | Layout |
 | --- | --- |
-| `drafts` | `DRAFT-YYYYMMDD-NNNNNN/` |
-| `posts` | `POST-YYYYMMDD-NNNNNN/` |
-| `drafts_tweet` | `YYYY/MM/TWEET-YYYYMMDD-NNNNNN/` |
-| `tweets` | `YYYY/MM/XPOST-YYYYMMDD-NNNNNN/` |
+| `drafts` | `YYYY/MM/DD/DRAFT-YYYYMMDD-NNNNNN/` |
+| `posts` | `YYYY/MM/DD/POST-YYYYMMDD-NNNNNN/` |
+| `drafts_tweet` | `YYYY/MM/DD/TWEET-YYYYMMDD-NNNNNN/` |
+| `tweets` | `YYYY/MM/DD/XPOST-YYYYMMDD-NNNNNN/` |
 
 Each artefact is `body.md` plus `meta.toml`. `kind` in meta is `"draft"`, `"post"`, `"tweet"`, or `"xpost"`.
 
