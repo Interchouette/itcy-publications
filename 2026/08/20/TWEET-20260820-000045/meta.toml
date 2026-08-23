@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260820-000045"
+subject = "*Niko Matsakis Opens A New Series On Cyclic Trait Solving*"
+created_at = "2026-08-20T20:31:21.215541507+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 91
+cite = "https://smallcultfollowing.com/babysteps/blog/2026/08/10/cyclic-trait-solving"
+quote_tweet_id = ""
+sources = [
+  "https://smallcultfollowing.com/babysteps/blog/2026/08/10/cyclic-trait-solving",
+  "https://yardbarker.com/tennis/articles/nick_kyrgios_2024_disgusting_dig_at_jannik_sinner_and_iga_swiatek_resurfaces_amid_cocaine_scandal/s1_17664_44196799",
+  "https://scientificamerican.com/article/lifes-last-universal-common-ancestor-may-predate-life-itself",
+]

@@ -1,0 +1,12 @@
+kind = "tweet"
+tweet_id = "TWEET-20260822-000068"
+subject = "G#: A Go-like language for .NET"
+created_at = "2026-08-22T21:08:18.244321180+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 80
+cite = "https://x.com/InfoWorld/status/2091104870338073069"
+quote_tweet_id = "2091104870338073069"
+sources = [
+  "https://x.com/InfoWorld/status/2091104870338073069",
+]

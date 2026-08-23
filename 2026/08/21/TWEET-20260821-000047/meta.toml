@@ -1,0 +1,13 @@
+kind = "tweet"
+tweet_id = "TWEET-20260821-000047"
+subject = "*longbridge gpui*-component: Rust GUI components"
+created_at = "2026-08-21T02:26:00.512005696+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 98
+cite = "https://x.com/milonspace/status/2089661151529574481"
+quote_tweet_id = "2089661151529574481"
+sources = [
+  "https://x.com/milonspace/status/2089661151529574481",
+  "https://x.com/huacnlee/status/2090424183683797119",
+]
