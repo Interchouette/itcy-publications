@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000016"
+subject = "hotpath-rs Paweł Urbanek"
+created_at = "2026-08-14T20:50:48.458471667+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 3137
+tokens_out = 75
+cite = "https://hotpath.rs/blog/profiling-rust-guide"
+quote_tweet_id = "2087899096606761217"
+sources = [
+  "https://x.com/ayushagarwal027/status/2087899096606761217",
+  "https://hotpath.rs/blog/profiling-rust-guide",
+  "https://hotpath.rs/blog/rust-performance-profiling",
+]

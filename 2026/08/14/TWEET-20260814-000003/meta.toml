@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000003"
+subject = "Interchouette project casper-rust-wasm-sdk"
+created_at = "2026-08-14T11:50:59.436993231+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 1742
+tokens_out = 78
+cite = "https://github.com/casper-ecosystem/casper-rust-wasm-sdk"
+quote_tweet_id = ""
+sources = [
+  "https://github.com/Interchouette-ITC/casper-rust-wasm-sdk",
+  "https://interchouette.net/",
+  "https://interchouette.net/CV/",
+]

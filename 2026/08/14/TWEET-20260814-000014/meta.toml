@@ -1,0 +1,17 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000014"
+subject = "*Proton VPN is replacing wireguard-go with a new Rust VPN core*"
+created_at = "2026-08-14T19:05:50.613245505+02:00"
+model = "load=ollama/qwen3:8b | tweet=ollama/qwen3:8b"
+tokens_in = 7909
+tokens_out = 576
+cite = "https://cyberinsider.com/proton-vpn-is-replacing-wireguard-go-with-a-new-rust-vpn-core/"
+quote_tweet_id = ""
+sources = [
+  "https://protonvpn.com/blog/protun-technical",
+  "https://cyberinsider.com/proton-vpn-is-replacing-wireguard-go-with-a-new-rust-vpn-core/",
+  "https://www.vpnreports.com/proton-vpn-maps-out-ambitious-2026-expansion-with-new-wireguard-core-and-business-tools/",
+  "https://cyberinsider.com/windows-11-security-update-fixes-actively-exploited-zero-day-flaw",
+  "https://cyberinsider.com/record-breaking-kimwolf-ddos-botnet-released-new-stealthier-version",
+  "https://tech-insider.org/how-to-set-up-wireguard-vpn-2026",
+]

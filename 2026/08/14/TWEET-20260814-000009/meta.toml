@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000009"
+subject = "Casper vs RWA and x402 payments"
+created_at = "2026-08-14T16:52:48.493584944+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 3120
+tokens_out = 129
+cite = "https://x.com/Casper_Network/status/2088223231035551912"
+quote_tweet_id = "2088223231035551912"
+sources = [
+  "https://x.com/Casper_Network/status/2088223231035551912",
+  "https://www.tradingview.com/news/chainwire:ece68aacc094b:0-csprusd-launching-as-casper-s-standard-stablecoin-rebuilt-for-the-machine-economy/",
+  "https://finance.yahoo.com/markets/crypto/articles/x402-settlement-volume-plunges-93-105710906.html",
+]

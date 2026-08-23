@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000011"
+subject = "*rtk-ai labs new CEO"
+created_at = "2026-08-14T18:01:21.723037768+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 3158
+tokens_out = 150
+cite = "https://x.com/patrick_rtk_/status/2084688269690732782"
+quote_tweet_id = "2084688269690732782"
+sources = [
+  "https://x.com/patrick_rtk_/status/2084688269690732782",
+  "https://labs.sogeti.com/the-hidden-cost-of-ai-coding-how-rtk-helps-developers-defeat-the-token-tax-part-2/",
+  "https://uk.investing.com/news/stock-market-news/rackspace-technology-names-chetan-gupta-as-chief-ai-officer-93CH-4830229",
+]

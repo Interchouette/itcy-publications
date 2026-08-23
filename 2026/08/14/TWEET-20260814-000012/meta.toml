@@ -1,0 +1,21 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000012"
+subject = "rtk-ai labs new CEO"
+created_at = "2026-08-14T18:07:29.599630703+02:00"
+model = "load=ollama/qwen3:8b | tweet=ollama/qwen3:8b"
+tokens_in = 8620
+tokens_out = 759
+cite = "https://labs.sogeti.com/the-hidden-cost-of-ai-coding-how-rtk-helps-developers-defeat-the-token-tax-part-2/"
+quote_tweet_id = ""
+sources = [
+  "https://labs.sogeti.com/the-hidden-cost-of-ai-coding-how-rtk-helps-developers-defeat-the-token-tax-part-2/",
+  "https://wavespeed.ai/blog/posts/what-is-rtk-token-efficiency/",
+  "https://www.businessinsider.com/yann-lecun-ai-startup-new-ceo-billion-ami-labs-2026-3",
+  "https://pankajads.medium.com/your-ai-agent-is-getting-smarter-but-also-blind-a-story-about-rtk-6ba4c6ccf97b",
+  "https://www.rtk-ai.app/team/",
+  "https://www.rtk-ai.app/benchmarks/",
+  "https://github.com/rtk-ai/rtk/issues/755",
+  "https://www.star-history.com/rtk-ai/rtk/",
+  "https://landscape.jimmysong.io/projects/rtk/",
+  "https://dev.to/arshtechpro/how-rtk-reduces-llm-token-usage-for-ai-coding-agents-2kfd",
+]

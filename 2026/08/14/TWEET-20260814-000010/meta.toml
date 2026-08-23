@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000010"
+subject = "GitHub Models is now retired"
+created_at = "2026-08-14T17:15:52.019498778+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 3048
+tokens_out = 108
+cite = "https://blog.dante.company/en/articles/github-models-retirement-migration-2026-07-02"
+quote_tweet_id = ""
+sources = [
+  "https://blog.dante.company/en/articles/github-models-retirement-migration-2026-07-02",
+  "https://www.developersdigest.tech/blog/github-models-retired-2026",
+  "https://thesyntaxdiaries.com/github-models-retirement-migration-guide",
+]

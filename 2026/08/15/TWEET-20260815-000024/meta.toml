@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260815-000024"
+subject = "Rust 1.96.1"
+created_at = "2026-08-15T02:31:00.234030109+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 73370
+tokens_out = 224
+cite = "https://blog.rust-lang.org/2026/06/30/Rust-1.96.1"
+quote_tweet_id = ""
+sources = [
+  "https://blog.rust-lang.org/2026/06/30/Rust-1.96.1",
+  "https://www.infoworld.com/article/4191267/rust-introduces-new-range-types.html",
+  "https://pythonspeed.com/articles/faster-float-math-rust/",
+]

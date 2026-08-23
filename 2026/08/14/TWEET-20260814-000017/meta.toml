@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000017"
+subject = "tinyboot from *AstraKernel"
+created_at = "2026-08-14T21:41:28.836906269+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 3114
+tokens_out = 130
+cite = "https://neowin.net/news/windows-rootkit-now-included-with-coolclient-backdoor-targeting-governments"
+quote_tweet_id = "2088224406187413962"
+sources = [
+  "https://x.com/AstraKernel/status/2088224406187413962",
+  "https://neowin.net/news/windows-rootkit-now-included-with-coolclient-backdoor-targeting-governments",
+  "https://neowin.net/news/researchers-find-windows-11-can-be-hacked-with-no-physical-access-with-new-attack",
+]

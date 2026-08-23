@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260814-000015"
+subject = "Halping's open-source Crab"
+created_at = "2026-08-14T19:22:32.553942396+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 3106
+tokens_out = 158
+cite = "https://x.com/haipingfu/status/2088094597604085953"
+quote_tweet_id = "2088094597604085953"
+sources = [
+  "https://x.com/haipingfu/status/2088094597604085953",
+  "https://store.steampowered.com/news/app/3526710/view/668372420911958107",
+  "https://blog.meetneura.ai/opencrabs-self-hosted-agent/",
+]

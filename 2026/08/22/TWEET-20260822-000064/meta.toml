@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260822-000064"
+subject = "At LinkedIn's scale, relying solely on human reviewers or simply putting an off-the-shelf AI reviewer in front of GitHub is not an effective way to manage PRs. To address this, LinkedIn engineers built a multi-agent AI code review platform that understands the organization&#xE2;€™s coding context, treats code review as production infrastructure, and minimizes hallucinations and low-signal feedback."
+created_at = "2026-08-22T18:21:34.889904875+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 107
+cite = "https://www.infoq.com/news/2026/08/linkedin-ai-code-review"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoq.com/news/2026/08/linkedin-ai-code-review",
+  "https://pcmag.com/news/linkedin-says-users-love-its-anti-ai-slop-button",
+  "https://infoq.com/news/2026/08/linkedin-ai-code-review/?amp=&amp=&amp=",
+]

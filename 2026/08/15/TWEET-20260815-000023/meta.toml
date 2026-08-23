@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260815-000023"
+subject = "The Rust project has implemented a formal LLM policy"
+created_at = "2026-08-15T02:20:35.469412544+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 57986
+tokens_out = 158
+cite = "https://itsfoss.com/news/rust-code-repo-ai-policy"
+quote_tweet_id = ""
+sources = [
+  "https://itsfoss.com/news/rust-code-repo-ai-policy",
+  "https://lwn.net/Articles/1087326/",
+  "https://socket.dev/blog/rust-moves-to-restrict-llm-use-in-contributions",
+]

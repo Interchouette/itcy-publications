@@ -1,0 +1,12 @@
+kind = "tweet"
+tweet_id = "TWEET-20260822-000067"
+subject = "Rings is a structured peer-to-peer network implementation using WebRTC"
+created_at = "2026-08-22T20:22:39.055744837+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 73
+cite = "https://x.com/Elder24601/status/2090752883419717845"
+quote_tweet_id = "2090752883419717845"
+sources = [
+  "https://x.com/Elder24601/status/2090752883419717845",
+]
