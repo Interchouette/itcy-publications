@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260820-000042"
+tweet_id = "TWEET-20260820-000042"
+subject = "wasmer ported their 7-year-old django backend"
+created_at = "2026-08-20T19:35:02.472833194+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 103
+cite = "https://wasmer.io/posts/ported-wasmer-backend-django-to-rust"
+quote_tweet_id = ""
+sources = [
+  "https://wasmer.io/posts/ported-wasmer-backend-django-to-rust",
+  "https://the-independent.com/news/world/americas/crime/oregon-dad-tasered-son-child-abuse-sentencing-b3022282.html",
+  "https://audacy.com/krld/news/local/flint-township-parents-charged-with-murder-in-death-of-severely-overweight-7-year-old-son",
+]

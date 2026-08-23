@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260820-000037"
+tweet_id = "TWEET-20260820-000037"
+subject = "The unreasonable effectiveness of LLMs in auditing Rust code"
+created_at = "2026-08-20T16:03:47.617410963+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 122
+cite = "https://shnatsel.medium.com/the-unreasonable-effectiveness-of-llms-for-auditing-rust-code-d4df8bf0afd3"
+quote_tweet_id = ""
+sources = [
+  "https://shnatsel.medium.com/the-unreasonable-effectiveness-of-llms-for-auditing-rust-code-d4df8bf0afd3",
+  "https://socket.dev/blog/rust-moves-to-restrict-llm-use-in-contributions",
+  "https://www.auditaid.io/blog/auditing-the-prover-llms-for-zk-security",
+]

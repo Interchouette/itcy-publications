@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260821-000056"
+tweet_id = "TWEET-20260821-000056"
+subject = "attribution problem gets worse models scale"
+created_at = "2026-08-21T16:47:29.552919901+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 96
+cite = "https://www.infoworld.com/article/4211315/ais-attribution-problem-gets-worse-as-models-scale-2.html"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoworld.com/article/4211315/ais-attribution-problem-gets-worse-as-models-scale-2.html",
+  "https://www.computerworld.com/article/4211283/ais-attribution-problem-gets-worse-as-models-scale.html",
+  "https://nature.com/articles/s41467-026-75667-5",
+]

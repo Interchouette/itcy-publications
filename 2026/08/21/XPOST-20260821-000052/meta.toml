@@ -1,0 +1,14 @@
+kind = "xpost"
+xpost_id = "XPOST-20260821-000052"
+tweet_id = "TWEET-20260821-000052"
+subject = "Zscaler discovered the C2Looper backdoor malware, a sophisticated"
+created_at = "2026-08-21T12:41:15.737261863+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 127
+cite = "https://x.com/Daily_CyberSec/status/2090692310178603483"
+quote_tweet_id = "2090692310178603483"
+sources = [
+  "https://x.com/Daily_CyberSec/status/2090692310178603483",
+  "https://x.com/krishnakamal077/status/2090032938968907820",
+]

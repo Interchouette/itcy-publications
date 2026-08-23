@@ -1,0 +1,14 @@
+kind = "xpost"
+xpost_id = "XPOST-20260820-000046"
+tweet_id = "TWEET-20260820-000046"
+subject = "github has accumulating issues in 2026"
+created_at = "2026-08-20T23:40:35.220981164+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 123
+cite = "https://x.com/acolombiadev/status/2089811385899160055"
+quote_tweet_id = "2089811385899160055"
+sources = [
+  "https://x.com/acolombiadev/status/2089811385899160055",
+  "https://x.com/ashnichrist/status/2090551150214836367",
+]

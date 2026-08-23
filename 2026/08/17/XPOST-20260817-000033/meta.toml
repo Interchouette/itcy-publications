@@ -1,0 +1,15 @@
+kind = "xpost"
+xpost_id = "XPOST-20260817-000033"
+tweet_id = "TWEET-20260817-000033"
+subject = "dimforge ships nexus cross-platform gpu physics"
+created_at = "2026-08-17T14:25:39.366640239+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 95
+cite = "https://dimforge.com/blog/2026/07/01/dimforge-Q2-technical-report"
+quote_tweet_id = ""
+sources = [
+  "https://dimforge.com/blog/2026/07/01/dimforge-Q2-technical-report",
+  "https://dimforge.com/blog/2026/01/09/the-year-2025-in-dimforge/",
+  "https://www.invenglobal.com/igec/articles/23052/nexus-onboards-collectible-rpg-myth-legends-to-cross-platform",
+]
