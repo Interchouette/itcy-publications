@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260820-000038"
+subject = "10 principles for creating a great developer experience"
+created_at = "2026-08-20T18:16:00.211824334+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 119
+cite = "https://www.infoworld.com/article/2337290/10-principles-for-creating-great-developer-experiences.html"
+quote_tweet_id = ""
+sources = [
+  "https://www.infoworld.com/article/2337290/10-principles-for-creating-great-developer-experiences.html",
+  "https://www.readysetcloud.io/blog/allen.helton/5-tips-for-building-the-best-dx-possible/",
+  "https://auth0.com/blog/introducing-auth0s-developer-experience-principles-our-foundation-for-delight/",
+]

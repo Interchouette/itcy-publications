@@ -1,0 +1,13 @@
+kind = "tweet"
+tweet_id = "TWEET-20260821-000051"
+subject = "Obscura Rust browser*"
+created_at = "2026-08-21T12:16:33.255879869+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 117
+cite = "https://x.com/the_osps/status/2089199040403820928"
+quote_tweet_id = "2089199040403820928"
+sources = [
+  "https://x.com/the_osps/status/2089199040403820928",
+  "https://x.com/thevibefounder/status/2090642595072323925",
+]

@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260820-000035"
+subject = "Rust Cargo vision"
+created_at = "2026-08-20T15:26:36.708672109+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 75
+cite = "https://epage.github.io/blog/2026/08/cargo-vision"
+quote_tweet_id = ""
+sources = [
+  "https://epage.github.io/blog/2026/08/cargo-vision",
+  "https://oneuptime.com/blog/post/2026-01-26-rust-cargo-project-management/view",
+  "https://xgamingserver.com/blog/rust-cargo-ship-guide",
+]

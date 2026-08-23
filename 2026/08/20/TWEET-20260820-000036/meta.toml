@@ -1,0 +1,14 @@
+kind = "tweet"
+tweet_id = "TWEET-20260820-000036"
+subject = "Rust's CVEs is evolving beyond the usual \"Rust is safer\" narrative."
+created_at = "2026-08-20T15:52:02.122721544+02:00"
+model = "load=short-load/cite+web+x | tweet=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 141
+cite = "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html"
+quote_tweet_id = ""
+sources = [
+  "https://kobzol.github.io/rust/2026/06/15/how-memory-safety-cves-differ-between-rust-and-c-cpp.html",
+  "https://itsfoss.com/news/linux-kernel-rust-cve-reduction/",
+  "https://techrepublic.com/article/news-tiobe-august-2026-java-nears-c-plus-plus",
+]
