@@ -1,0 +1,14 @@
+kind = "draft"
+draft_id = "DRAFT-20260825-000102"
+subject = "*Amp* is an AI coding agent/IDE tool made by *Sourcegraph"
+created_at = "2026-08-25T19:19:38.986400495+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 17380
+tokens_out = 664
+sources = [
+  "https://sourcegraph.com/blog/agentic-coding",
+  "https://www.stackhawk.com/blog/secure-code-with-amp-by-sourcegraph",
+  "https://sourcegraph.com/blog/why-sourcegraph-and-amp-are-becoming-independent-companies",
+  "https://www.producthunt.com/products/amp-free",
+  "https://aitechboss.com/best-ai-agent-frameworks-2026",
+]
