@@ -8,11 +8,11 @@ I’m watching how this change becomes habit. 🦉 The move to a public platform
 
 If you’re curious about how this plays out in practice, check out the update from Vercel. 🔐
 
-https://vercel.com/blog/vercel-ai-sdk-security-reporting
+https://vercel.com/blog/the-vercel-oss-bug-bounty-program-is-now-available
 
 Link: 1
 0 = no link. /change_url DRAFT-20260826-000104 <0|1|2|3|url>
-1. https://vercel.com/blog/vercel-ai-sdk-security-reporting
+1. https://vercel.com/blog/the-vercel-oss-bug-bounty-program-is-now-available
 2. https://www.hackerone.com/blog/vercel-ai-sdk-security-reporting-update
 3. https://github.com/vercel/ai-sdk/issues/123
 
