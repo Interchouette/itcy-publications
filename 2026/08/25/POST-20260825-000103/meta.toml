@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20260825-000103"
+draft_id = "DRAFT-20260825-000103"
+subject = "Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust"
+created_at = "2026-08-25T22:04:48.220475273+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 11976
+tokens_out = 322
+sources = [
+  "https://x.com/rustaceans_rs/status/2092134050060275910",
+  "https://nhimg.org/articles/memory-is-missing-in-ai-systems-what-shipped-this-week",
+  "https://www.databricks.com/blog/memory-scaling-ai-agents",
+]
