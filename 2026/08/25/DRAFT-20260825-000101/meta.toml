@@ -1,0 +1,10 @@
+kind = "draft"
+draft_id = "DRAFT-20260825-000101"
+subject = "pgrust is 300x faster than Postgres on analytics"
+created_at = "2026-08-25T19:03:36.762300518+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 9488
+tokens_out = 269
+sources = [
+  "https://x.com/mmalisper/status/2091925981363941499",
+]
