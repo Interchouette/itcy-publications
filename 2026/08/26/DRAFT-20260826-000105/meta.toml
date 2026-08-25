@@ -1,0 +1,12 @@
+kind = "draft"
+draft_id = "DRAFT-20260826-000105"
+subject = "uika's goal is to become the default TUI application framework for Rust"
+created_at = "2026-08-26T01:35:12.703459938+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 11425
+tokens_out = 269
+sources = [
+  "https://github.com/everruns/tuika",
+  "https://tuigroup.com/en/newsroom/news/tui-reports-strong-results-for-the-full-year-2025-exceeds-ebit-forecast-and-presents-new-dividend-policy-revenue-rises-to-eur-242-billion-underlying-ebit-at-constant-exchange-rates-reaches-record-leve",
+  "https://www.ad-hoc-news.de/boerse/news/corporate-news/tui-stock-holds-near-7-as-events-sales-add-250-000-listings/69979674",
+]
