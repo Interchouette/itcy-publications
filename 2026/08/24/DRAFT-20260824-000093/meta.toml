@@ -1,0 +1,11 @@
+kind = "draft"
+draft_id = "DRAFT-20260824-000093"
+subject = "ITC prefers Angular syntax in Leptos"
+created_at = "2026-08-24T12:36:37.398393226+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 3918
+tokens_out = 290
+sources = [
+  "https://interchouette.net/news",
+  "https://interchouette.net/CV/",
+]
