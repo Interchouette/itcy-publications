@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20260826-000114"
+draft_id = "DRAFT-20260826-000114"
+subject = "Mozilla wouldn't ship JPEG XL until someone rewrote the decoder in Rust. Google Research did it. Now default support is rolling out across browsers."
+created_at = "2026-08-26T19:44:57.702793534+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 297
+sources = [
+  "https://x.com/ayushagarwal027/status/2092326145312395657",
+  "https://x.com/ayushagarwal027",
+  "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl",
+]
