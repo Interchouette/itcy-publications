@@ -1,6 +1,6 @@
 Draft ID: DRAFT-20260827-000117
 
-The next chapter for DuckDB is unfolding, and it’s not just another tool, it’s a shift in how open-source projects evolve. 🦀 DuckLabs, the Amsterdam-based company behind DuckDB, has joined AWS, but the heart of the project remains untouched. The open-source projects, DuckDB, DuckLake, and Quack, will stay free and open under the MIT license, continuing to be stewarded by the DuckDB Foundation. This move signals a broader trend: big companies recognizing the value of open-source stewardship without swallowing the community.
+The next chapter for @duckdb is unfolding, and it’s not just another tool, it’s a shift in how open-source projects evolve. 🦀 DuckLabs, the Amsterdam-based company behind DuckDB, has joined AWS, but the heart of the project remains untouched. The open-source projects, DuckDB, DuckLake, and Quack, will stay free and open under the MIT license, continuing to be stewarded by the DuckDB Foundation. This move signals a broader trend: big companies recognizing the value of open-source stewardship without swallowing the community.
 
 It’s a rare example of a project staying true to its roots while gaining the resources of a tech giant. Builders care because this means more support for the tools they rely on, without the risk of commercialization. The DuckDB Foundation’s role as a non-profit ensures that the community remains at the center of development. It’s a reminder that open-source isn’t just about code, it’s about trust, transparency, and the people who build it.
 
@@ -16,4 +16,4 @@ Link: 1
 4. https://thestack.technology/aws-acquire-ducklabs-duckdb
 5. https://theregister.com/databases/2026/08/26/aws-buys-ducklabs-the-people-behind-the-popular-in-process-olap-database/5292590
 
-Written by AI - ITCy - model ollama/qwen3:8b - tokens in:11416 out:284
+Written by AI - ITCy - model ollama/qwen3:8b - tokens in:4327 out:302
