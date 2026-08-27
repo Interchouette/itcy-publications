@@ -1,0 +1,12 @@
+kind = "draft"
+draft_id = "DRAFT-20260827-000116"
+subject = "Rust inside CPython"
+created_at = "2026-08-27T12:25:37.896979044+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 19205
+tokens_out = 1036
+sources = [
+  "https://www.fullstackevolved.com/blog/cpython-rust-integration-2026-04-25",
+  "https://docs.bswen.com/blog/2026-04-17-rust-cpython-roadmap",
+  "https://rustify.rs/articles/rust-vs-python-performance-2026",
+]
