@@ -1,0 +1,12 @@
+kind = "post"
+post_id = "POST-20260827-000117"
+draft_id = "DRAFT-20260827-000117"
+subject = "ducklabs join aws projects remain open"
+created_at = "2026-08-27T12:55:32.090864178+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 4327
+tokens_out = 302
+sources = [
+  "https://www.techzine.eu/news/analytics/143855/developer-duckdb-to-be-acquired-by-aws",
+  "https://motherduck.com/blog/duckdb-amazon",
+]
