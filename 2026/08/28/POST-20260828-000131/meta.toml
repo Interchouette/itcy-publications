@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20260828-000131"
+draft_id = "DRAFT-20260828-000131"
+subject = "Amp is an AI coding agent/IDE tool made by *Sourcegraph* it's much more of an agent operating on your repository than a traditional autocomplete tool"
+created_at = "2026-08-28T23:46:17.445975039+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 14204
+tokens_out = 565
+sources = [
+  "https://dynalord.com/blog/amp-review",
+  "https://hackernoon.com/sourcegraph-drops-the-waitlist-amp-its-agentic-coding-tool-opens-to-everyone",
+  "https://baeseokjae.github.io/posts/amp-code-review-2026/",
+]
