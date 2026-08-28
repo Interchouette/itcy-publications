@@ -1,0 +1,11 @@
+kind = "post"
+post_id = "POST-20260828-000129"
+draft_id = "DRAFT-20260828-000129"
+subject = "NAPI-RS now supports the idea of having the same Rust API produce a native Node addon while also providing a WebAssembly/WASI path when a native binary isn't available"
+created_at = "2026-08-28T21:10:47.870966288+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 14411
+tokens_out = 636
+sources = [
+  "https://www.hirenodejs.com/blog/nodejs-napi-rs-rust-addons-2026",
+]
