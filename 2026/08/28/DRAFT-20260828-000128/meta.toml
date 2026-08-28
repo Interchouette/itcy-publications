@@ -1,0 +1,13 @@
+kind = "draft"
+draft_id = "DRAFT-20260828-000128"
+subject = "ScyllaDB Rustlang driver for ScyllaDB Alternator that achieves ~58% higher throughput than the AWS SDK driver"
+created_at = "2026-08-28T17:14:28.683342160+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 14392
+tokens_out = 749
+sources = [
+  "https://www.scylladb.com/2026/08/27/new-rust-driver-for-scylladbs-dynamodb-api/",
+  "https://futurumgroup.com/insights/scylladbs-rust-driver-delivers-58-throughput-gain-for-dynamodb-users/",
+  "https://www.scylladb.com/product/scylla-drivers/",
+  "https://github.com/scylladb/scylla-rust-driver/blob/main/README.md",
+]
