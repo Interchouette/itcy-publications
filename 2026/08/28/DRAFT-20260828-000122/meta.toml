@@ -1,0 +1,13 @@
+kind = "draft"
+draft_id = "DRAFT-20260828-000122"
+subject = "S&#xE4;tteri is a high-performance Markdown and MDX processor developed by the Astro team. Built in Rust, it enhances build speeds by up to 61% for Astro 7.0. S&#xE4;tteri supports flexible JavaScript plugins and integrates various Markdown features natively. It maintains compatibility with the unified ecosystem while offering faster parsing and reduced dependencies."
+created_at = "2026-08-28T11:28:04.985622356+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 288
+sources = [
+  "https://www.infoq.com/news/2026/08/astro-satteri-rust",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/architecture",
+  "https://infoq.com/news/2026/08/astro-satteri-rust/?amp=&amp=&amp=",
+]
