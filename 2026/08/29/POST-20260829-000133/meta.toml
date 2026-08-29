@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20260829-000133"
+draft_id = "DRAFT-20260829-000133"
+subject = "OpenAI is ending its partnership with Cursor"
+created_at = "2026-08-29T13:15:08.251010623+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 8384
+tokens_out = 327
+sources = [
+  "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+  "https://openaifoundation.org",
+  "https://chatgpt.com",
+  "https://finance.yahoo.com/technology/ai/articles/openai-says-ending-deal-cursor-035719651.html",
+]
