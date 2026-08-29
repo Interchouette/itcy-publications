@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260829-000132"
+draft_id = "DRAFT-20260829-000132"
+subject = "Apache Iggy™ Graduates to a Top-Level Project"
+created_at = "2026-08-29T11:55:36.148326511+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 8461
+tokens_out = 279
+sources = [
+  "https://x.com/rustaceans_rs/status/2093377764128633214",
+  "https://x.com/rustaceans_rs",
+  "https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/",
+  "https://news.apache.org/foundation/entry/the-apache-software-foundation-announces-new-top-level-projects-6",
+  "https://iggy.apache.org/community/graduation-checklist/",
+]
