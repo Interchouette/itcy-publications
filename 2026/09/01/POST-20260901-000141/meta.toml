@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260901-000141"
+draft_id = "DRAFT-20260901-000141"
+subject = "Wasmi a *WebAssembly interpreter written in Rust* lets you *execute* .wasm *modules inside your own Rust application* rather than relying on a browser or a JIT runtime such as Wasmtime"
+created_at = "2026-09-01T16:18:36.638512641+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 309
+sources = [
+  "https://wasmi-labs.github.io/blog/posts/wasmi-v2.0",
+  "https://wasmi-labs.github.io/blog",
+  "https://wasmi-labs.github.io/blog/posts",
+  "https://github.com/robbepop",
+  "https://webassembly.org",
+]
