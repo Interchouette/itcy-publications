@@ -1,0 +1,14 @@
+kind = "draft"
+draft_id = "DRAFT-20260901-000139"
+subject = "DoorDash has moved engineering agent workloads from developer laptops to its Flux cloud platform. The platform automated 130,000 engineering tasks in one month and supports more than 25,000 automated code reviews weekly. Flux uses isolated Firecracker microVMs, an MCP gateway, reusable playbooks, and multiple invocation surfaces to run agent workflows with scoped access and centralized auditing."
+created_at = "2026-09-01T11:35:34.899358598+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 12292
+tokens_out = 637
+sources = [
+  "https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-security-privacy",
+  "https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/",
+  "https://x.com/techsmruti/status/2094711149191385264",
+]
