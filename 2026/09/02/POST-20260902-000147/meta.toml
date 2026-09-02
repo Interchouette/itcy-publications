@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20260902-000147"
+draft_id = "DRAFT-20260902-000147"
+subject = "Topcoat (reative webapp framework for Rust) is getting live views. This will will enable patterns like suspense and other dynamic view patterns while still being server-side rendered!"
+created_at = "2026-09-02T19:52:58.647499558+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 258
+sources = [
+  "https://x.com/carllerche/status/2094826518212231484",
+  "https://github.com",
+  "https://tokio.rs/blog/2026-07-22-announcing-topcoat",
+]
