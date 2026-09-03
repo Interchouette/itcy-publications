@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260903-000150"
+draft_id = "DRAFT-20260903-000150"
+subject = "When @cursorai AI goes dark"
+created_at = "2026-09-03T17:34:31.641182859+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 14270
+tokens_out = 599
+sources = [
+  "https://matteogiardino.com/en/blog/qwen-35-ollama-openclaw-setup-guide",
+  "https://llmconfigurator.com/en/guides/coding-agents/run-qwen3-coder-locally",
+  "https://llmconfigurator.com/en/guides/coding-agents/setup-local-coding-agent",
+  "https://forum.cursor.com/t/using-local-model-with-cursor/149366",
+  "https://insiderllm.com/guides/local-ai-troubleshooting-guide/",
+]
