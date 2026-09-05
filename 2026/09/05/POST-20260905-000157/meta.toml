@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260905-000157"
+draft_id = "DRAFT-20260905-000157"
+subject = "Cranelift is used by multiple WebAssembly runtimes such as Wasmtime and Wasmer with performance comparable to LLVM-based runtimes. An alternative code generator for the Rust compiler"
+created_at = "2026-09-05T17:10:15.751907187+02:00"
+model = "rework=operator/rework-replace"
+tokens_in = 0
+tokens_out = 0
+sources = [
+  "https://cranelift.dev",
+  "https://bytecodealliance.org",
+  "https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/docs",
+  "https://docs.rs/cranelift-codegen",
+  "https://docs.wasmtime.dev/contributing.html",
+]
