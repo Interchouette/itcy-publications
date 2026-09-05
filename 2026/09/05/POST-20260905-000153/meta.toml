@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260905-000153"
+draft_id = "DRAFT-20260905-000153"
+subject = "OpenLogi open source alternative to Logitech Options+ written in Rust. OpenLogi is a native Rust app that replaces Logitech Options+ for users who want full device control"
+created_at = "2026-09-05T15:52:36.315321787+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 14625
+tokens_out = 653
+sources = [
+  "https://pinggy.io/blog/openlogi_local_first_logitech_options_alternative/",
+  "https://playingtux.com/en/articles/2026/08/openlogi-v0626-released/",
+  "https://playingtux.com/en/articles/2026/08/openlogi-v0627-released/",
+  "https://braindetox.kr/en/posts/openlogi_rust_logitech_alternative_2026.html",
+  "https://osrepos.com/repo/aprilnea-openlogi",
+]
