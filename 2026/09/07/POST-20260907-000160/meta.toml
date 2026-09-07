@@ -7,6 +7,6 @@ model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
 tokens_in = 6146
 tokens_out = 256
 sources = [
-  "https://x.com/NathanFlurry/status/2096704470008889597",
   "https://github.com/rivet-dev/agentos",
+  "https://x.com/NathanFlurry/status/2096704470008889597",
 ]

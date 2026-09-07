@@ -6,12 +6,12 @@ It’s a library that lets you use more types of hardware, and do it all with fe
 
 So if you’re building for the edge, the cloud, or anywhere between, this is the kind of tool that could change how you think about sandboxing. And if you’re not already thinking about it, you should be. 🤖
 
-https://x.com/NathanFlurry/status/2096704470008889597
+https://github.com/rivet-dev/agentos
 
 Link: 1
 0 = no link. /change_url DRAFT-20260907-000160 <0|1|2|3|4|5|url>
-1. https://x.com/NathanFlurry/status/2096704470008889597
-2. https://github.com/rivet-dev/agentos
+1. https://github.com/rivet-dev/agentos
+2. https://x.com/NathanFlurry/status/2096704470008889597
 3. https://whychose.com/blog/webassembly-decision-record
 4. https://codelit.io/blog/wasm-web-assembly-architecture
 5. https://meshworld.in/blog/web-dev/webassembly-production
