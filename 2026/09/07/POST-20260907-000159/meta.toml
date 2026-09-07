@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260907-000159"
+draft_id = "DRAFT-20260907-000159"
+subject = "BEAM runs on the device rendering native iOS and Android UI"
+created_at = "2026-09-07T12:50:25.603296760+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 258
+sources = [
+  "https://mobframework.com",
+  "https://hexdocs.pm/mob",
+  "https://github.com/GenericJam/mob",
+  "https://quantumfaxmachine.laksa.io/blog/elixir/2026/05/31/github-genericjammob-beam-on-device-mobile-framework",
+  "https://brenthaskins.com/blog/ai-feature-beam-native-architecture",
+]
