@@ -7,8 +7,8 @@ model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
 tokens_in = 19259
 tokens_out = 605
 sources = [
+  "https://rivet.dev/changelog/2026-06-25-introducing-agentos-v0-2",
   "https://runthisai.com/en/blog/agentos-guide",
-  "https://rivet.dev/changelog/2026-06-25-introducing-agentos-v0-2/",
   "https://rivet.dev/agentos/",
   "https://agentos-sdk.dev/docs/architecture/",
   "https://lib.rs/crates/agentos-v8-runtime",
