@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260907-000163"
+draft_id = "DRAFT-20260907-000163"
+subject = "hotpath-rs A simple Rust profiler that shows exactly why your code is slow Performance feedback for developers and coding agents. hotpath-rs 0.25 ships with first-class Prometheus & Grafana support"
+created_at = "2026-09-07T19:25:08.342073044+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 19246
+tokens_out = 454
+sources = [
+  "https://hotpath.rs/blog/",
+  "https://docs.rs/hotpath/latest/hotpath/",
+  "https://project-awesome.org/r/pawurb-hotpath-rs",
+  "https://lib.rs/crates/hotpath",
+  "https://dev.co/ai/mcp/hotpath-rs",
+]
