@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260911-000164"
+draft_id = "DRAFT-20260911-000164"
+subject = "Indian agricultural warehousing and lending provider Arya.ag is running tests for a tokenization system that would turn electronic warehouse receipts for"
+created_at = "2026-09-11T11:08:25.740263418+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 228
+sources = [
+  "https://www.cryptobreaking.com/arya-ag-to-store-grain",
+  "https://www.cryptobreaking.com",
+  "https://www.cryptobreaking.com/category/news",
+  "https://www.cryptobreaking.com/advertise",
+  "https://www.cryptobreaking.com/shop",
+]
