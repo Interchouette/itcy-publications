@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260916-000170"
+draft_id = "DRAFT-20260916-000170"
+subject = "The vulnerability impacts self-managed CE and EE instances and provides an unauthenticated path to arbitrary file reads. It’s already being probed in the wild."
+created_at = "2026-09-16T18:13:14.417629400+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 266
+sources = [
+  "https://www.infoworld.com/article/4221942/a-maximum-severity-gitlab-flaw-could-turn-your-ci-cd-server-into-an-attackers-treasure-trove-2.html",
+  "https://us.resources.infoworld.com",
+  "https://www.csoonline.com/article/4221934/a-maximum-severity-gitlab-flaw-could-turn-your-ci-cd-server-into-an-attackers-treasure-trove.html",
+  "https://securityarsenal.com/blog/cve-2026-85706-gitlab-maximum-severity-path-traversal-detection-hunting-and-emergency-patching-guide",
+  "https://threataft.com/articles/gitlab-cve-2026-85706-path-traversal-kev",
+]
