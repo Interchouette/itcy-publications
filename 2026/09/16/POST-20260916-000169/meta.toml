@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260916-000169"
+draft_id = "DRAFT-20260916-000169"
+subject = "By now it’s no surprise that Rust is of strategic importance to Microsoft. From bold mission statements when Azure CTO Mark Russinovich outlined our future strategy for native code, to millions of dollars invested by Microsoft into supporting the Rust Project, over the following years. Watch Mark’s keynote from last&hellip;"
+created_at = "2026-09-16T17:39:44.153088778+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 296
+sources = [
+  "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft",
+  "https://x.com/merecadans/status/2100249293085135319",
+  "https://rustfoundation.org/policy/privacy-policy",
+  "https://rustfoundation.org/media/help-fund-the-people-who-build-rust",
+  "https://rustfoundation.org/about",
+]
