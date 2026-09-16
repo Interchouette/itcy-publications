@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20260916-000172"
+draft_id = "DRAFT-20260916-000172"
+subject = "Led by former IBM Blockchain partner Jules Miller, Iris is helping Bolivia&#x27;s VIVA use stablecoins for settlement, dollar reserves and new financial services without replacing its existing telecom systems."
+created_at = "2026-09-16T18:47:47.533659947+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 249
+sources = [
+  "https://www.coindesk.com/business/2026/09/15/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
+  "https://www.kucoin.com/news/flash/latin-american-telecom-operator-viva-migrates-partial-settlements-to-avalanche-blockchain",
+  "https://thecoincourse.com/news/a-latam-telecom-operator-is-putting-part-of-its-finances-on-avalanche",
+]
