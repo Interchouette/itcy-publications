@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260916-000167"
+draft_id = "DRAFT-20260916-000167"
+subject = "If you want to delve into the code straight, you can check it out here. clippy::nonstandard_macro_braces is a Clippy lint that catches macro calls with the …"
+created_at = "2026-09-16T16:41:01.132415135+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 255
+sources = [
+  "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x",
+  "https://tech.lgbt/@blyxyas",
+  "https://github.com/rust-lang/rust-clippy/pull/16808",
+  "https://rust-lang.github.io/rust-clippy/stable/index.html",
+  "https://doc.rust-lang.org/stable/clippy/lints.html",
+]
