@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20260917-000173"
+draft_id = "DRAFT-20260917-000173"
+subject = "Pizza Bot is a self-hosted open-source interface for interacting with AI agents asynchronously that AWS hopes to help enterprises manage longer-running agent tasks; analysts say integration and governance requirements could hamper its adoption."
+created_at = "2026-09-17T12:32:29.526582102+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 283
+sources = [
+  "https://www.infoworld.com/article/4222882/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window.html",
+  "https://us.resources.infoworld.com",
+  "https://www.computerworld.com/article/4222890/aws-bets-that-ai-agents-need-an-inbox-not-another-chat-window-3.html",
+  "https://aicybr.com/blog/aws-pizza-bot-background-ai-agents-guide",
+]
