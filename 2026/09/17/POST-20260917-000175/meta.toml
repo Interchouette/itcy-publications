@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260917-000175"
+draft_id = "DRAFT-20260917-000175"
+subject = "In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages. Using kUML benchmarks and an infrastructure-as-code example, he explores how compiler validation and generate-compile-repair loops can make model-generated DSL output more reliable."
+created_at = "2026-09-17T13:36:20.592299014+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 269
+sources = [
+  "https://www.infoq.com/articles/next-dsl-author-language-model",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/architecture",
+  "https://spreadprivacy.com",
+  "https://x.com/aabaohan99/status/2100550415419081203",
+]
