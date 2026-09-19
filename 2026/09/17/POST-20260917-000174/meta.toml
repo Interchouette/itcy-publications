@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20260917-000174"
+draft_id = "DRAFT-20260917-000174"
+subject = "Migrating the GitHub Copilot runtime to Rust"
+created_at = "2026-09-17T12:48:22.498972089+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 321
+sources = [
+  "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+  "https://github.com",
+  "https://docs.github.com",
+  "https://githubuniverse.com",
+]
