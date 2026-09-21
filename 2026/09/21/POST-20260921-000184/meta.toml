@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260921-000184"
+draft_id = "DRAFT-20260921-000184"
+subject = "Rustack *A local AWS service emulator written in Rust”* with 18 service adapters. It explicitly includes *S3 SQS DynamoDB KMS SNS Lambda IAM STS*"
+created_at = "2026-09-21T12:46:32.846818335+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 8745
+tokens_out = 612
+sources = [
+  "https://github.com/tyrchen/rustack/tree/master/",
+  "https://lib.rs/crates/rustack-cli",
+  "https://lib.rs/crates/rustack-core",
+  "https://docs.rs/rustack-core/",
+  "https://github.com/tyrchen/rustack/blob/master/README.md",
+]
