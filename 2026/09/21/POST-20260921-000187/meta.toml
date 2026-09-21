@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260921-000187"
+draft_id = "DRAFT-20260921-000187"
+subject = "Local AI for Penetration Testing & Research - Eddie Zhang"
+created_at = "2026-09-21T15:03:37.079790437+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 255
+sources = [
+  "https://x.com/pentest_swissky/status/2101346075772960793",
+  "https://projectblack.io",
+  "https://undercodetesting.com/local-ai-for-penetration-testing-research-how-open-source-models-are-redefining-vulnerability-discovery-video",
+  "https://zabuqasem.github.io/daily-security-feed/posts/local-ai-for-penetration-testing-research",
+  "https://cybersecuritynews.com/kali-linux-ai-driven-penetration-testing",
+]
