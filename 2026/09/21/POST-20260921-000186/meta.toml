@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20260921-000186"
+draft_id = "DRAFT-20260921-000186"
+subject = "LowLevelCraft Rust for Systems Programming"
+created_at = "2026-09-21T13:50:12.635802705+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 259
+sources = [
+  "https://www.lowlevelcraft.com/tracks/language-foundations/rust-systems",
+  "https://crates.reviews/article/Rust_packages_for_system_programming_and_lowlevel_development.html",
+  "https://webreference.com/rust/systems",
+  "https://tuttlem.github.io/2024/10/30/learning-rust-part-15-systems-programming.html",
+  "https://dev.to/bengreenberg/from-high-level-to-systems-programming-a-practical-guide-to-rust-part-2-fij",
+]
