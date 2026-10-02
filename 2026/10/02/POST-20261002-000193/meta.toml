@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261002-000193"
+draft_id = "DRAFT-20261002-000193"
+subject = "Rust 1.99 is out, and for the first time the corresponding cargo-semver-checks release will have immediate SemVer linting support for a new language feature: C-ABI variadic functions"
+created_at = "2026-10-02T13:34:30.516881650+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 6717
+tokens_out = 291
+sources = [
+  "https://x.com/PredragGruevski/status/2105672887906775185",
+  "https://blog.rust-lang.org",
+  "https://doc.rust-lang.org/nightly/cargo/CHANGELOG.html",
+  "https://daily.dev/posts/rust-1-99-0-stabilizes-c-variadic-function-definitions-and-adds-new-standard-library-apis-v6elwytnz",
+  "https://news.ycombinator.com/item",
+]
