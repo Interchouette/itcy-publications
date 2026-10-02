@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261002-000192"
+draft_id = "DRAFT-20261002-000192"
+subject = "Rust 1.99 is out, and for the first time the corresponding cargo-semver-checks release will have immediate SemVer linting support for a new language feature: C-ABI variadic functions"
+created_at = "2026-10-02T13:22:20.974164121+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 301
+sources = [
+  "https://x.com/PredragGruevski/status/2105672887906775185",
+  "https://blog.rust-lang.org",
+  "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases",
+  "https://doc.rust-lang.org/beta/cargo/CHANGELOG.html",
+  "https://releases.rs/docs/1.99.0",
+]
