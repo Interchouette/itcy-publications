@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261002-000188"
+draft_id = "DRAFT-20261002-000188"
+subject = "Home » Posts » Principles for fast Tokio applications Principles for fast Tokio applications 2026-09-13 · 14 min · Table of Contents General principles First, determine whether you have a problem Split for latency, batch for throughput Yield more frequently to optimize for latency Batch work to amortize overhead Beware global resources Be extremely careful with mutexes Constrain parallelism—usually Isolate Tokio workers from other threads Tricks for when you know better Blocking the executor can be fine—sometimes Use multiple runtimes to isolate workloads by priority Spin to keep control Appendix: A mental model for Tokio in four bullet points Change Log I'm on my way back from RustConf."
+created_at = "2026-10-02T11:33:59.877377919+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 333
+sources = [
+  "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications",
+  "https://spreadprivacy.com",
+  "https://x.com/LionKimbro/status/2105953991133991269",
+  "https://dial9-rs.github.io",
+]
