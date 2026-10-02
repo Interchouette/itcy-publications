@@ -1,0 +1,12 @@
+kind = "post"
+post_id = "POST-20261002-000194"
+draft_id = "DRAFT-20261002-000194"
+subject = "Comprehensive Rust is a free Rust course developed by the Android team at Google"
+created_at = "2026-10-02T13:43:07.705246723+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 281
+sources = [
+  "https://google.github.io/comprehensive-rust",
+  "https://policies.google.com/technologies/cookies",
+]
