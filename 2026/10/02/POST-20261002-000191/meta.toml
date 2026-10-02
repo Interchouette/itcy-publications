@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261002-000191"
+draft_id = "DRAFT-20261002-000191"
+subject = "At least that&#039;s what investors believe, according to a complex mathematical model economists developed to measure how changes in AI stock prices were reflected in the stock prices of other enterprises, based on the number of software engineers they employed."
+created_at = "2026-10-02T12:26:55.616252564+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 271
+sources = [
+  "https://www.infoworld.com/article/4228820/ai-could-boost-software-engineer-productivity-by-32-6-2.html",
+  "https://us.resources.infoworld.com",
+  "https://spreadprivacy.com",
+  "https://x.com/dilly___d4lly/status/2105969103244808338",
+  "https://www.infoworld.com",
+]
