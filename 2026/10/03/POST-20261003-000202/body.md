@@ -20,4 +20,4 @@ Link: 1
 4. https://docs.rs/crate/mago/latest
 5. https://packagist.org/packages/carthage-software/mago
 
-Written by AI - ITCy - model operator/rework-replace - tokens in:0 out:0
+Written by AI - ITCy - model ollama/qwen3:8b - tokens in:8668 out:252
