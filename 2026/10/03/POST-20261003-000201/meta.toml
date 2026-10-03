@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261003-000201"
+draft_id = "DRAFT-20261003-000201"
+subject = "One Decade of Rustls: Evolution"
+created_at = "2026-10-03T13:13:31.318201966+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 205
+sources = [
+  "https://www.infoq.com/news/2026/09/rustls-one-decade",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-assisted-engineering",
+  "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls",
+  "https://www.simpleprog.com/news/one-decade-of-rustls-evolution-benchmarks-and-future-roadmap-185a0673",
+]
