@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261005-000206"
+draft_id = "DRAFT-20261005-000206"
+subject = "DHH just had agents build Campfire in Rust"
+created_at = "2026-10-05T12:49:28.177467684+02:00"
+model = "load=ollama/qwen3:8b | draft=ollama/qwen3:8b"
+tokens_in = 19440
+tokens_out = 686
+sources = [
+  "https://www.explainx.ai/blog/dhh-fable-rust-rewrite-terminaltexteffects-11m-tokens-august-2026",
+  "https://www.heise.de/en/news/Rust-instead-of-Ruby-Rails-founder-Hansson-s-new-project-11465884.html",
+  "https://rustify.rs/articles/rails-world-2026-keynote-dhh-hey-rust-ai-agents",
+  "https://x.com/AGTPinsights/status/2106836958307840378",
+  "https://x.com/samruby/status/2106861647726088437",
+]
