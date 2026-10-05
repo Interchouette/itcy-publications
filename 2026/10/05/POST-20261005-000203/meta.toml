@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261005-000203"
+draft_id = "DRAFT-20261005-000203"
+subject = "Coding faster buys developers free time at first, but eventually that time will be filled with more work—or fewer developers."
+created_at = "2026-10-05T11:47:25.105335390+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 274
+sources = [
+  "https://www.infoworld.com/article/4228393/ai-cuts-software-developers-some-slack.html",
+  "https://us.resources.infoworld.com",
+  "https://www.newsbreak.com/news/4916647603167-ai-cuts-software-developers-some-slack",
+  "https://www.hackerrank.com/blog/the-productivity-paradox-of-ai",
+  "https://www.datallmlab.com/blog/does-ai-coding-make-developers-faster.html",
+]
