@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261006-000210"
+draft_id = "DRAFT-20261006-000210"
+subject = "the Rust compiler’s performance"
+created_at = "2026-10-06T14:40:50.799106265+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 12292
+tokens_out = 675
+sources = [
+  "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026",
+  "https://perf.rust-lang.org/compare.html",
+  "https://github.com/camelid",
+  "https://noahlev.org/blog/2026/08/27/making-rustdoc-faster",
+  "https://x.com/gtrakGT/status/2107448598665269523",
+]
