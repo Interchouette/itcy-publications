@@ -8,11 +8,11 @@ Mold’s roadmap for 3.x is clear: streamline compatibility, boost performance, 
 
 And while the transition from C++ to Rust may seem subtle, its impact is already being felt in the quiet corners of Linux development. 🦉
 
-https://x.com/rui314/status/2107075031713128720
+https://computerical.com/article/mold-linker-version-3-0-0-release-rewritten-in-rust-49963385
 
 Link: 1
 0 = no link. /change_url DRAFT-20261006-000212 <0|1|2|3|4|5|url>
-1. https://x.com/rui314/status/2107075031713128720
+1. https://computerical.com/article/mold-linker-version-3-0-0-release-rewritten-in-rust-49963385
 2. https://github.com
 3. https://spreadprivacy.com
 
