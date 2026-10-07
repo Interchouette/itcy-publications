@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261007-000216"
+draft_id = "DRAFT-20261007-000216"
+subject = "Cloudflare has disclosed a cross-tenant data exposure vulnerability in Containers and Sandboxes, caused by thin-provisioned storage pools configured to skip zeroing reused blocks. Researchers recovered directory structures, database pages and complete SQLite databases across four continents. Cloudflare remediated it and found no evidence of exploitation."
+created_at = "2026-10-07T16:38:42.206777261+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 254
+sources = [
+  "https://www.infoq.com/news/2026/10/cloudflare-cross-tenant-exposure",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/architecture",
+  "https://spreadprivacy.com",
+  "https://x.com/SergeyCYW/status/2107834340034126221",
+]
