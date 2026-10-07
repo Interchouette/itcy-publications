@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261007-000219"
+draft_id = "DRAFT-20261007-000219"
+subject = "The PHP Toolchain Benchmarks have been updated to reflect the performance leap in PHPStan!"
+created_at = "2026-10-07T17:21:07.320271440+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 12292
+tokens_out = 514
+sources = [
+  "https://x.com/azjezz/status/2107563694699733299",
+  "https://carthage-software.github.io/php-toolchain-benchmarks",
+  "https://phpstan.org/blog/from-minutes-to-seconds-massive-performance-gains-in-phpstan",
+  "https://phpbenchlab.com/php-2026-performance-trends-analysis",
+  "https://mago.carthage.software/1.30.0/en",
+]
