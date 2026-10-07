@@ -1,0 +1,12 @@
+kind = "post"
+post_id = "POST-20261007-000220"
+draft_id = "DRAFT-20261007-000220"
+subject = "A clear-headed look at what's still missing from Rust error handling, and a crate exploring a solution."
+created_at = "2026-10-07T17:38:49.858024056+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 447
+sources = [
+  "https://x.com/ayushagarwal027/status/2107757843197616376",
+  "https://x.com/fwmarqix/status/2107859223610528236",
+]
