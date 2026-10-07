@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261007-000215"
+draft_id = "DRAFT-20261007-000215"
+subject = "Near Intents said the roughly $3.8 million drained in an exploit was returned in full, a day after the team said it had identified the hacker."
+created_at = "2026-10-07T16:21:01.518941421+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 325
+sources = [
+  "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
+  "https://www.cookiebot.com/en/what-is-behind-powered-by-cookiebot",
+  "https://finance.yahoo.com/markets/crypto/articles/near-intents-says-exploited-3-094252429.html",
+  "https://cryptonews.net/news/security/33531408",
+  "https://blockwisely.com/news/near-intents-3-8m-returned-48-hour-ultimatum",
+]
