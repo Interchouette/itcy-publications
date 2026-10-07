@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261007-000217"
+draft_id = "DRAFT-20261007-000217"
+subject = "AWS and OpenAI announce multi-year strategic partnership"
+created_at = "2026-10-07T16:54:08.285314641+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 322
+sources = [
+  "https://www.aboutamazon.com/news/aws/amazon-open-ai-strategic-partnership-investment",
+  "https://www.newsbreak.com/news/4329348096902-aws-and-openai-announce-multi-year-strategic-partnership",
+  "https://techrevolt.news/articles/aws-and-openai-announce-multi-year-strategic-partnership",
+  "https://aiunplugged.io/blog/aws-and-openai-announce-multi-year-strategic-partnership",
+  "https://opendatascience.com/aws-and-openai-announce-multi-year-strategic-partnership",
+]
