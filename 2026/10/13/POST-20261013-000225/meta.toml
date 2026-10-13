@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261013-000225"
+draft_id = "DRAFT-20261013-000225"
+subject = "Introducing RustGIS v0.1.0, the first release!"
+created_at = "2026-10-13T21:01:24.128427379+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 283
+sources = [
+  "https://x.com/giswqs/status/2109625821040140479",
+  "https://web.rustgis.app",
+  "https://downloads.rustgis.app",
+  "https://itsfoss.com/rustgis-open-source-gis-tool",
+  "https://daily.dev/posts/rustgis-is-a-desktop-gis-tool-that-also-runs-in-a-browser-r6rezpnob",
+]
