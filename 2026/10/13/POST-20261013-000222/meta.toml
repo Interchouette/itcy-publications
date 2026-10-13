@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261013-000222"
+draft_id = "DRAFT-20261013-000222"
+subject = "Designed for local development, the sandbox uses operating system isolation rather than a dedicated virtual machine, but its architecture expands the code that must be trusted to enforce security policies."
+created_at = "2026-10-13T17:35:50.199772736+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 311
+sources = [
+  "https://www.infoworld.com/article/4232439/aws-takes-aim-at-runaway-ai-agent-behavior-with-strands-box.html",
+  "https://us.resources.infoworld.com",
+  "https://www.csoonline.com/article/4232446/aws-takes-aim-at-runaway-ai-agent-behavior-with-strands-box-2.html",
+  "https://www.c-sharpcorner.com/article/github-copilot-local-sandbox-what-can-it-access-on-your-machine",
+  "https://www.docker.com/blog/benefits-of-sandbox-environments",
+]
