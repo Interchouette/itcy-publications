@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261013-000221"
+draft_id = "DRAFT-20261013-000221"
+subject = "David Hewitt shares a status update, first module, and potential acceptance criteria for the Rust for CPython project"
+created_at = "2026-10-13T17:10:51.551128795+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 285
+sources = [
+  "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython",
+  "https://pyfound.blogspot.com/2025/06/python-language-summit-2025-what-do-core-developers-want-from-rust.html",
+  "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en",
+  "https://discuss.python.org/t/pre-pep-rust-for-cpython/104906",
+  "https://www.heise.de/en/news/Rust-in-CPython-Python-3-16-to-bring-optional-Rust-backend-for-zlib-11477142.html",
+]
