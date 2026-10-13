@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261013-000223"
+draft_id = "DRAFT-20261013-000223"
+subject = "Longbridge Pro has finally reached 1.0 first commercial application built with GPUI Kit using Rust + GPUI across macOS Windows and Linux"
+created_at = "2026-10-13T18:15:07.038871080+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 3576
+tokens_out = 279
+sources = [
+  "https://x.com/huacnlee/status/2109838256661749860",
+  "https://longbridge.com/en/changelog/longbridge-pro/1.0",
+  "https://www.blog.brightcoding.dev/2026/02/23/gpui-component-build-stunning-rust-desktop-apps-with-gpu-power",
+  "https://lib.rs/crates/gpui-component",
+]
