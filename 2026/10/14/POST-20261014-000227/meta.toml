@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261014-000227"
+draft_id = "DRAFT-20261014-000227"
+subject = "I read \"The End of Programming\" by Paul Dix. He's the CTO of InfluxData, a guy who writes databases himself, not some influencer. The thesis is hardcore: writing code by hand and reviewing it with your eyes is a dying trade. There'll be more software than ever, but most of the"
+created_at = "2026-10-14T14:16:02.832253991+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 347
+sources = [
+  "https://x.com/kelstar_/status/2109668425609994585",
+  "https://spreadprivacy.com",
+  "https://x.com/Olamilekan23_ML/status/2110340867122982942",
+]
