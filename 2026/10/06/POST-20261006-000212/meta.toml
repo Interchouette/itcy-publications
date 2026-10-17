@@ -7,7 +7,7 @@ model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
 tokens_in = 6146
 tokens_out = 280
 sources = [
-  "https://x.com/rui314/status/2107075031713128720",
+  "https://computerical.com/article/mold-linker-version-3-0-0-release-rewritten-in-rust-49963385",
   "https://github.com",
   "https://spreadprivacy.com",
   "https://x.com/sitcomythri/status/2107472464980955538",
