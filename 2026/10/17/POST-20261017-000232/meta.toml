@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261017-000232"
+draft_id = "DRAFT-20261017-000232"
+subject = "We made open models run over 2x faster than Ollama, without any new hardware"
+created_at = "2026-10-17T16:28:34.484831589+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 267
+sources = [
+  "https://x.com/tomgreenwald/status/2110718297255670071",
+  "https://www.gpts24.com/en/news/freetoken-rewrites-local-moe-serving-2x-faster-than-ollama-on-the-right-hardware",
+  "https://www.explainx.ai/blog/magnitude-open-source-inference-engine-2x-faster-than-ollama-claim-checked-2026",
+]
