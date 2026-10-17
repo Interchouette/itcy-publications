@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261017-000229"
+draft_id = "DRAFT-20261017-000229"
+subject = "AhsayCBS is the server side of Ahsay’s backup product exploited by 2 CVEs"
+created_at = "2026-10-17T14:29:37.603094052+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 312
+sources = [
+  "https://www.bitdefender.com/en-us/blog/businessinsights/technical-advisory-ahsaycbs-exploitation-chain-cve-2026-105133-cve-2026-105134",
+  "https://securityarsenal.com/blog/cve-2026-105133-and-cve-2026-105134-unpatched-ahsaycbs-auth-bypass-and-command-injection-under-active-exploitation-defensive-playbook",
+  "https://windowsforum.com/news/ahsaycbs-cve-2026-105133-and-cve-2026-105134-exploited-version-10-3-4-still-vulnerable.447783",
+  "https://www.huntress.com/blog/ahsaycbs-flaws-exploit",
+  "https://www.anthonybahn.com/news/ahsaycbs-cve-2026-105133-105134-exploited-backup-server-rce",
+]
