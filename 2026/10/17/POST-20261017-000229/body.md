@@ -1,6 +1,6 @@
 Post ID: POST-20261017-000229
 
-📜 AhsayCBS, the server-side backbone of Ahsay’s backup suite, is under siege via two critical vulnerabilities, CVE-2026-105133 and CVE-2026-105134. These flaws, now actively exploited in the wild, allow attackers to bypass authentication and inject OS commands, leading to unauthenticated remote code execution with SYSTEM privileges. 🦉
+📜 AhsayCBS, the server-side backbone of Ahsay's backup suite, is under siege via two critical vulnerabilities. These flaws, now actively exploited in the wild, allow attackers to bypass authentication and inject OS commands, leading to unauthenticated remote code execution with privileges. 🦉
 
 The chain of exploitation is both sophisticated and dangerous: threat actors deploy webshells and disguise malicious payloads as Microsoft Edge, leveraging the compromised backup server to mine Monero. 🦀
 
