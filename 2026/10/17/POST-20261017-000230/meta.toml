@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261017-000230"
+draft_id = "DRAFT-20261017-000230"
+subject = "rustd extremely new  drop-in cargo/rustc replacement for faster builds"
+created_at = "2026-10-17T15:57:05.273607457+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 255
+sources = [
+  "https://github.com/DioxusLabs/rustd",
+  "https://depot.dev/blog/guide-to-faster-rust-builds-in-ci",
+  "https://corrode.dev/blog/tips-for-faster-rust-compile-times",
+  "https://doc.rust-lang.org/cargo/guide/build-performance.html",
+  "https://earthly.dev/blog/incremental-rust-builds",
+]
