@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261017-000228"
+draft_id = "DRAFT-20261017-000228"
+subject = "Your agent can be fast, accurate or cheap, but not all three, so decide which two matter before you build and keep a human checking the AI’s advice."
+created_at = "2026-10-17T13:48:41.142559164+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 295
+sources = [
+  "https://www.infoworld.com/article/4234493/5-agentic-ai-trade-offs-to-consider-before-production.html",
+  "https://us.resources.infoworld.com",
+  "https://www.newsbreak.com/news/4945043903702-5-agentic-ai-trade-offs-to-consider-before-production",
+  "https://www.bracketcoder.com/blog/ai-agent-development-what-to-automate-vs-keep-human",
+  "https://gravity.fast/blog/build-your-own-agent-vs-platform",
+]
