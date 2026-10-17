@@ -6,12 +6,12 @@ Rsdoctor 2.0 unifies multi-compiler reports into one, letting teams view results
 
 🦉 If you’re using Webpack, stick with Rsdoctor 1.x for now. But for Rspack users, the future is here. 📜
 
-https://x.com/rspack_dev/status/2110654538458009878
+https://rsdoctor.rs/blog/release/release-note-2_0
 
 Link: 1
 0 = no link. /change_url DRAFT-20261017-000231 <0|1|2|3|4|5|url>
-1. https://x.com/rspack_dev/status/2110654538458009878
-2. https://rsdoctor.rs
+1. https://rsdoctor.rs/blog/release/release-note-2_0
+2. https://x.com/rspack_dev/status/2110654538458009878
 3. https://hysenlabs.com/projects/web-infra-dev-rsdoctor
 4. https://github.com/web-infra-dev/rsdoctor/releases
 5. https://lynxjs.org/3.6/rspeedy/use-rsdoctor
