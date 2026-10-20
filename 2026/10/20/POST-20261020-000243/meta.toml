@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261020-000243"
+draft_id = "DRAFT-20261020-000243"
+subject = "Rector Inspired by Mago/PHPStan and Rust/Go speed results"
+created_at = "2026-10-20T20:51:14.786360844+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 261
+sources = [
+  "https://timrutte.de/en/blog/rector-in-a-legacy-project",
+  "https://calendly.com/tim-rutte-dev/30min",
+  "https://tomasvotruba.com/blog/rust-go-leverage-in-php",
+  "https://getrector.com/blog/rector-018-how-we-made-tests-seven-times-faster",
+  "https://www.scode.nl/blog/nobody-runs-phpstan-cold",
+]
