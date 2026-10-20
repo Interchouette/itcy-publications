@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261020-000234"
+draft_id = "DRAFT-20261020-000234"
+subject = "AI is helping the bad guys find CVEs and exploit them long before the good guys have had a chance to patch them. Clearinghouses could help us close the gap."
+created_at = "2026-10-20T10:56:12.480497543+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 256
+sources = [
+  "https://www.infoworld.com/article/4236094/are-clearinghouses-the-answer-to-the-ai-hacking-threat.html",
+  "https://us.resources.infoworld.com",
+  "https://www.cynet.com/blog/how-ai-is-changing-cve-management",
+  "https://labs.cloudsecurityalliance.org/research/csa-whitepaper-collapsing-exploit-window-ai-speed-vulnerabil",
+  "https://cloudsecuritypros.ai/blog/cve-explosion-ai-vulnerabilities-2026",
+]
