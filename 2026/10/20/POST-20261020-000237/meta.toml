@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261020-000237"
+draft_id = "DRAFT-20261020-000237"
+subject = "Iris Chat is like Signal, but without phone numbers or accounts."
+created_at = "2026-10-20T13:00:49.044844072+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 261
+sources = [
+  "https://x.com/marttimalmi/status/2112257463730737191",
+  "https://irischat.org",
+  "https://apps.teamzlab.com/blog/signal-alternatives-without-phone-number-2026",
+  "https://snapmessages.com/best-apps-for-private-conversations-without-phone-numbers",
+  "https://franklinetech.com/messaging-apps-comparison",
+]
