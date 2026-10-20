@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261020-000235"
+draft_id = "DRAFT-20261020-000235"
+subject = "AWS recently announced the preview of the Well-Architected Agent, a service that analyzes environments against Well-Architected best practices and provides prioritized recommendations across cost, security, performance, and reliability. The AI agent can also suggest remediation steps and review infrastructure-as-code before deployment."
+created_at = "2026-10-20T11:42:10.728752634+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 312
+sources = [
+  "https://www.infoq.com/news/2026/10/aws-well-architected-agent",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-assisted-engineering",
+  "https://spreadprivacy.com",
+  "https://x.com/AiswaryaVenkit1/status/2112476419989401639",
+]
