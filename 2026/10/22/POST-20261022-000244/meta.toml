@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261022-000244"
+draft_id = "DRAFT-20261022-000244"
+subject = "Are you still writing your own code? At this point, refusing to use coding agents is a career-limiting move."
+created_at = "2026-10-22T11:18:23.505734915+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 306
+sources = [
+  "https://www.infoworld.com/article/4237954/eight-reasons-coding-agents-are-better-than-software-developers.html",
+  "https://us.resources.infoworld.com",
+  "https://www.newsbreak.com/news/4958244067136-eight-reasons-coding-agents-are-better-than-software-developers",
+  "https://www.innovatrixinfotech.com/blog/anthropic-engineers-stopped-writing-code-agentic-engineering",
+  "https://www.wyeworks.com/blog/2026/05/28/is-learning-to-code-still-worth-it",
+]
