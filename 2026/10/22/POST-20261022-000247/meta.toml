@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261022-000247"
+draft_id = "DRAFT-20261022-000247"
+subject = "Lean verified kernels (lake check --paranoid) + why Bitcoin/Ethereum/Solana client rebuilds in Lean keep coming up"
+created_at = "2026-10-22T13:07:52.306486800+02:00"
+model = "rework=ollama/qwen3:8b"
+tokens_in = 7624
+tokens_out = 292
+sources = [
+  "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels",
+  "https://x.com/0xdoug/status/2113146489052471434",
+  "https://changenow.io/blog/lean-ethereum-update",
+  "https://coinmarketcap.com/academy/article/vitalik-buterin-lean-ethereum-roadmap-3-year-overhaul",
+  "https://blog.thirdweb.com/lean-ethereum-explained-vitaliks-3-year-plan-to-rebuild-the-protocol-from-the-ground-up",
+]
