@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261022-000246"
+draft_id = "DRAFT-20261022-000246"
+subject = "We’ve always needed people who could translate business requirements into software. Now we need them to do it with AI."
+created_at = "2026-10-22T11:42:08.091062434+02:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3:8b"
+tokens_in = 6146
+tokens_out = 251
+sources = [
+  "https://www.infoworld.com/article/4236910/enterprise-ai-needs-more-than-an-ai-engineer.html",
+  "https://us.resources.infoworld.com",
+  "https://www.newsbreak.com/news/4956121586379-enterprise-ai-needs-more-than-an-ai-engineer",
+  "https://thinkwiseglobal.com/articles/ai-new-role-in-building-software-requirements",
+  "https://callsphere.ai/blog/translating-business-requirements-ai-agent-specs-2026",
+]
