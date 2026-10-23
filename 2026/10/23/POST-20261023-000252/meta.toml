@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261023-000252"
+draft_id = "DRAFT-20261023-000252"
+subject = "Two Rust TypeScript rewrites: Theo Browne's AI-agent TS_Rust experiment and OXC's tsrs long-term compiler and language server"
+created_at = "2026-10-23T11:10:01.536339945+02:00"
+model = "operator/simulated-dual-rewrite"
+tokens_in = 6146
+tokens_out = 353
+sources = [
+  "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
+  "https://x.com/ainotesus/status/2113495887070597381",
+  "https://ainotes.us/summary/top-dev-tool-projects-vllm-supabase-comfyui-twenty-mineflayer-opencode",
+]
