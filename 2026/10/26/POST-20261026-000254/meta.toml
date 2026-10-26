@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261026-000254"
+draft_id = "DRAFT-20261026-000254"
+subject = "Successfully monetizing AI features starts with better visibility into how customers use software, where they find value, and which capabilities actually drive engagement."
+created_at = "2026-10-26T12:40:36.304531588+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 226
+sources = [
+  "https://www.infoworld.com/article/4237997/how-ai-is-changing-software-pricing.html",
+  "https://us.resources.infoworld.com",
+  "https://productschool.com/blog/artificial-intelligence/ai-monetization",
+  "https://www.newsbreak.com/news/4958244028123-how-ai-is-changing-software-pricing",
+  "https://www.moesif.com/blog/monitoring/Best-Practices-for-Monetizing-AI-Successfully",
+]
