@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261026-000256"
+draft_id = "DRAFT-20261026-000256"
+subject = "EthLib bringing Ethereum's primitives"
+created_at = "2026-10-26T13:58:06.638153824+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 247
+sources = [
+  "https://github.com/ethereum/EthLib",
+  "https://ethresear.ch/t/etheorem-update-the-complete-executable-consensus-specs-written-in-lean-4/26063",
+  "https://yanujz.github.io/ethlib/guide/building",
+  "https://ethereum.github.io/consensus-specs",
+  "https://ethereum.org/developers/docs",
+]
