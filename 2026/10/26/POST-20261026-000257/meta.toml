@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261026-000257"
+draft_id = "DRAFT-20261026-000257"
+subject = "*PHP 8.5 reimplemented from scratch in Rust* Bridge Between Two Worlds PHP-in-Rust work and the growing bridge between the ecosystems"
+created_at = "2026-10-26T14:42:47.026260588+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 288
+sources = [
+  "https://www.exakat.io/php-%E2%9D%A4%EF%B8%8F-rust-every-bridge-between-two-worlds",
+  "https://discord.com/invite/tZCFA3smMF",
+  "https://github.com/francescotinti/php-rust/blob/main/php-rust/README.md",
+]
