@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261028-000263"
+draft_id = "DRAFT-20261028-000263"
+subject = "Nitro: a formally verified agentic system for compiling your most complex SQL workloads into Rust"
+created_at = "2026-10-28T13:37:15.791979887+01:00"
+model = "load=ollama/qwen3.5:9b | draft=ollama/qwen3.5:9b"
+tokens_in = 9129
+tokens_out = 639
+sources = [
+  "https://www.amazon.science/blog/ec2s-formally-verified-isolation-engine-provides-mathematical-assurance-of-virtual-machine-isolation",
+  "https://zenn.dev/kiiwami/articles/0f3c6f36d9b3def9?locale=en",
+  "https://zenn.dev/kiiwami/articles/01f629c438711c23?locale=en",
+  "https://aws.amazon.com/blogs/compute/aws-nitro-isolation-engine-formally-verifying-the-hypervisor-in-the-aws-nitro-system/",
+  "https://x.com/ben_lern/status/2115141396273233928",
+]
