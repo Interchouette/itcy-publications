@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261028-000264"
+draft_id = "DRAFT-20261028-000264"
+subject = "*Agent Box based on GΞLIX 1 AI Chip from Acrab AI in* Singapore"
+created_at = "2026-10-28T14:24:27.719458186+01:00"
+model = "load=ollama/qwen3.5:9b | draft=ollama/qwen3.5:9b"
+tokens_in = 9093
+tokens_out = 682
+sources = [
+  "https://finance.yahoo.com/technology/ai/articles/acrab-unveils-g-lix-1-065600050.html",
+  "https://theroboticsmedia.com/article/acrab-gelix-1-5nm-edge-ai-soc-agent-box-100-billion-parameter-singapore-july-23-2026",
+  "https://www.alextech.ai/en/news/local-ai-frontier-acrabs-glix-1-chip-targets-100b-parameter-models/",
+  "https://www.kucoin.com/news/flash/singapore-s-acrab-unveils-agent-box-and-g-lix-1-chip-for-end-user-agentic-ai",
+  "https://www.engineering.com/acrab-unveils-edge-ai-soc-for-local-agentic-workloads/",
+]
