@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261028-000261"
+draft_id = "DRAFT-20261028-000261"
+subject = "*Worm armed 42 GitHub repos by hiding a payload too big to fail"
+created_at = "2026-10-28T12:42:14.214330490+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 368
+sources = [
+  "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+  "https://account.theregister.com/login",
+  "https://www.infoworld.com/article/4241474/attackers-compromised-42-github-repositories-by-using-files-too-large-to-be-searched.html",
+]
