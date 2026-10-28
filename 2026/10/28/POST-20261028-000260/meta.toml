@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261028-000260"
+draft_id = "DRAFT-20261028-000260"
+subject = "At AGNTCon + MCPCon North America 2026, the Agentic AI Foundation added OpenSandbox, Open Responses, Agent Skills, and OpenEnv, reaching ten projects in its first year. Keynotes from Anthropic, OpenAI, Google, and UC Berkeley focused on MCP in production, security, and agents with their own identities."
+created_at = "2026-10-28T12:29:09.730341679+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 219
+sources = [
+  "https://www.infoq.com/news/2026/10/agntcon-mcpcon-2026",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/high-performing-teams",
+  "https://spreadprivacy.com",
+  "https://x.com/CXDquanac/status/2115352124498592023",
+]
