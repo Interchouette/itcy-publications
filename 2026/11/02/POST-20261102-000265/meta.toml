@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261102-000265"
+draft_id = "DRAFT-20261102-000265"
+subject = "Coding agents write code better than humans do, but software development is so much more than code."
+created_at = "2026-11-02T14:30:11.348994680+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 224
+sources = [
+  "https://www.infoworld.com/article/4241333/eight-reasons-you-are-better-than-coding-agents.html",
+  "https://us.resources.infoworld.com",
+  "https://www.newsbreak.com/news/4971611470916-eight-reasons-you-are-better-than-coding-agents",
+  "https://www.ikangai.com/coding-for-ai-agents-vs-coding-for-human-developers",
+  "https://resources.anthropic.com/2026-agentic-coding-trends-report",
+]
