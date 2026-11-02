@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261102-000267"
+draft_id = "DRAFT-20261102-000267"
+subject = "Chinese AI companies DeepSeek and Moonshot AI relied heavily on OpenAI’s GPT-6 Astra OpenAI reported 16"
+created_at = "2026-11-02T15:18:48.984210938+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 250
+sources = [
+  "https://thenextweb.com/news/deepseek-moonshot-gpt-6-astra-distillation",
+  "https://www.msn.com/en-ca/news/other/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-the-information-reports/ar-AA2ghAgl",
+  "https://www.timesofai.com/news/deepseek-moonshot-ai-models-gpt-6-astra",
+  "https://www.analyticsinsight.net/news/chinese-ai-labs-accused-of-distilling-openais-gpt-6-astra",
+]
