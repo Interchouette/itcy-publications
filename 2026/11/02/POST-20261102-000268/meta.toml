@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261102-000268"
+draft_id = "DRAFT-20261102-000268"
+subject = "LakeSail’s open-source Rust-native Spark-compatible compute engine ran successfully on Oxide’s"
+created_at = "2026-11-02T16:48:09.835094745+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 299
+sources = [
+  "https://lakesail.com/blog/oxide-partnership",
+  "https://docs.lakesail.com",
+  "https://github.com/lakehq/sail",
+  "https://platform.lakesail.com",
+  "https://oxide.computer",
+]
