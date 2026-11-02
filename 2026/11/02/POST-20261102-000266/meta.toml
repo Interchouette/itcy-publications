@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261102-000266"
+draft_id = "DRAFT-20261102-000266"
+subject = "Anthropic has published how the Claude Code team reviews code now that Claude writes roughly 90% of it, including a claim that nobody keeps a complete mental model of the codebase. The post documents a pull request that ran more than fifty review rounds overnight, a reviewer spending most of its effort on pre-existing code, and a control the team says it does not yet have."
+created_at = "2026-11-02T14:51:36.420526477+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 237
+sources = [
+  "https://www.infoq.com/news/2026/10/anthropic-code-review",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-engineering",
+  "https://spreadprivacy.com",
+  "https://x.com/macroguru9/status/2117254471600550244",
+]
