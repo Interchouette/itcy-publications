@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261104-000269"
+draft_id = "DRAFT-20261104-000269"
+subject = "Revolutcosts 10x by cutting out Claude going to GLM"
+created_at = "2026-11-04T14:33:57.008325255+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 6146
+tokens_out = 249
+sources = [
+  "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+  "https://account.theregister.com/login",
+  "https://emergent.sh/news/revolut-cuts-ai-coding-costs-90-self-hosted",
+]
