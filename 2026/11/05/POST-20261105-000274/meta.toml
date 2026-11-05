@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261105-000274"
+draft_id = "DRAFT-20261105-000274"
+subject = "CLI tool from adolfousier Opencrabs that replaces OpenClaw in one binary"
+created_at = "2026-11-05T15:01:24.672629239+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16092
+tokens_out = 226
+sources = [
+  "https://hysenlabs.com/projects/adolfousier-opencrabs",
+  "https://aitoolmaps.com",
+  "https://opencrabs.com",
+  "https://blog.meetneura.ai/opencrabs-2026-self-healing-agents-one-binary",
+]
