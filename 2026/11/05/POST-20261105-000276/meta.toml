@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261105-000276"
+draft_id = "DRAFT-20261105-000276"
+subject = "Unsloth's Dynamic V3.1 GGUFs for Qwen3.8-Flash-Next fitting a 125B MoE on 75GB RAM - insist on RAM people with no GPU and substantial system RAM can run this model Unsloth says performance on RAM-based systems can be closer to GPU-based inference than with conventional models"
+created_at = "2026-11-05T16:12:56.591836357+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 17447
+tokens_out = 313
+sources = [
+  "https://alphasignal.ai/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents",
+  "https://runtimewire.com/article/unsloth-dynamic-v31-ggufs-qwen38-flash-next",
+  "https://hermes-ai.net/news/unsloth-shrinks-qwen3-8-flash-next-to-74-5-gb-for-local-coding-agents",
+  "https://cldnavi.com/en/blog/qwen38-flash-next-gguf-guide-2026",
+]
