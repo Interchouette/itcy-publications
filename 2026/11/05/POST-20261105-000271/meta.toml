@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261105-000271"
+draft_id = "DRAFT-20261105-000271"
+subject = "The compromised versions attempted to plant SSH keys and establish persistent remote access; Anthropic says an attacker used access to Cursor’s marketplace to publish the tampered extension."
+created_at = "2026-11-05T14:08:11.751177504+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16124
+tokens_out = 233
+sources = [
+  "https://www.infoworld.com/article/4243214/cursor-removes-malicious-claude-code-extension-after-ssh-backdoor-attempt-2.html",
+  "https://us.resources.infoworld.com",
+  "https://cursor.com/blog/claude-code-extension-security-notice",
+  "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor",
+  "https://windowsforum.com/news/malicious-claude-code-cursor-extension-windows-ssh-backdoor-artifacts-and-cleanup-steps.450308",
+]
