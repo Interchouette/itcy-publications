@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261109-000280"
+draft_id = "DRAFT-20261109-000280"
+subject = "Qwen 4 27b will be released on November 9"
+created_at = "2026-11-09T16:40:51.382465394+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15871
+tokens_out = 341
+sources = [
+  "https://aiintoai.vercel.app/article/alibaba-qwen-4-release-date-leaks-benchmarks-architecture-report",
+  "https://willitrunai.com/blog/qwen-4-27b-release-date-vram",
+  "https://flex.ai/blog/qwen4-release-date-and-models",
+  "https://llmhangar.com/blog/deploy-qwen4",
+]
