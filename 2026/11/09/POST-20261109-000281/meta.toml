@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261109-000281"
+draft_id = "DRAFT-20261109-000281"
+subject = "“A Critique of GPUI” for complex desktop apps"
+created_at = "2026-11-09T17:15:27.516779384+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 4279
+tokens_out = 190
+sources = [
+  "https://www.headstart.news/articles/589502f4fa4f47634b3f61f8a58d1ee7",
+  "https://blog.zortax.de/posts/a-critique-of-gpui",
+  "https://hn.today/s/a-critique-of-gpui",
+  "https://techbytes.app/posts/a-critique-of-gpui/",
+  "https://proomt.com/item/a-critique-of-gpui-b6465553-0943-4d67-91a6-c5b3286e7659",
+]
