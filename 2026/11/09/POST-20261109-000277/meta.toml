@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261109-000277"
+draft_id = "DRAFT-20261109-000277"
+subject = "AWS has made Continuum for code vulnerabilities generally available in two regions. The service proves exploitability by running real exploits in a sandbox, then opens fixes as pull requests. Published pricing charges per finding processed as well as per line of code, and practitioners are asking what would justify letting it merge fixes on its own."
+created_at = "2026-11-09T10:23:56.593331189+01:00"
+model = "rework=ollama/tobestyledintro/qwen3.8-9b-distill:latest"
+tokens_in = 7634
+tokens_out = 290
+sources = [
+  "https://www.infoq.com/news/2026/11/aws-continuum-ga",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-engineering",
+  "https://spreadprivacy.com",
+  "https://x.com/ShannonLeePerr1/status/2119710211405648186",
+]
