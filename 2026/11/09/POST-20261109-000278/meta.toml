@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261109-000278"
+draft_id = "DRAFT-20261109-000278"
+subject = "RunSybil demonstrated code execution through a malicious model template. Python says the sandbox escapes fall outside its security threat model."
+created_at = "2026-11-09T11:17:24.175168935+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/tobestyledintro/qwen3.8-9b-distill:latest"
+tokens_in = 16743
+tokens_out = 365
+sources = [
+  "https://www.infoworld.com/article/4245631/cpython-flaw-exposes-ai-inference-servers-to-sandbox-escape-attacks-2.html",
+  "https://us.resources.infoworld.com",
+  "https://www.runsybil.com/blog/cpython-0-day-vulnerabilities-threaten-the-ai-supply-chain",
+  "https://www.zetik.ai/news/article/story_id-p008-230135",
+  "https://www.fosslinux.com/163590/cpython-sandbox-escape-ai-supply-chain.htm",
+]
