@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261109-000282"
+draft_id = "DRAFT-20261109-000282"
+subject = "“A Critique of GPUI” for complex desktop apps add a critic of the syntax of render method not Designer friendly compared to Angular syntax with clear html/scss/component or even React syntax"
+created_at = "2026-11-09T17:34:55.699794047+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 6155
+tokens_out = 288
+sources = [
+  "https://blog.zortax.de/posts/a-critique-of-gpui",
+  "https://github.com/zortax/zgui",
+  "https://www.headstart.news/articles/589502f4fa4f47634b3f61f8a58d1ee7",
+  "https://proomt.com/item/a-critique-of-gpui-b6465553-0943-4d67-91a6-c5b3286e7659",
+  "https://gpui-starter.freeoxide.com/blog/gpui-vs-tauri-framework",
+]
