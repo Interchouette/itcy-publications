@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261112-000288"
+draft_id = "DRAFT-20261112-000288"
+subject = "The emulator lets developers and AI coding agents test AWS applications locally, reducing cloud provisioning time and costs."
+created_at = "2026-11-12T14:02:48.161055425+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16387
+tokens_out = 256
+sources = [
+  "https://www.infoworld.com/article/4247383/aws-unveils-local-emulator-service-to-help-enterprises-accelerate-app-development-and-testing.html",
+  "https://us.resources.infoworld.com",
+  "https://www.aboutamazon.com/news/aws/how-autonomous-ai-agents-built-aws-emulator",
+  "https://www.unite.ai/aws-releases-local-emulator-written-entirely-by-autonomous-ai-agents",
+  "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents",
+]
