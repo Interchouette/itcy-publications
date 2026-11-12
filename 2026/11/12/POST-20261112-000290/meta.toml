@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261112-000290"
+draft_id = "DRAFT-20261112-000290"
+subject = "Relax is a Rust-based real-time compiler and JIT runtime for Rust from Makepad"
+created_at = "2026-11-12T15:15:36.680536998+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16091
+tokens_out = 228
+sources = [
+  "https://makepad.github.io/relax",
+  "https://github.com/makepad/relax",
+  "https://hotrepo.ai/makepad/relax",
+  "https://agihunt.info/en/p/1a1cc64e791abf7d9b0455bd283",
+  "https://www.notionpulse.cc/repo/makepad/relax",
+]
