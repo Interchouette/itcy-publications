@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261112-000289"
+draft_id = "DRAFT-20261112-000289"
+subject = "The Angular team has introduced ngp, a compiler preprocessor that rewrites the analysis stage in Rust using Oxc. It replaces ngc's dependence on the Transformer API, which TypeScript 7.0 removed. An early benchmark showed 2x to 3x faster cold builds. Adoption is expected in an Angular 22 minor release; production builds should stay on ngc until then."
+created_at = "2026-11-12T14:41:27.808266664+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15285
+tokens_out = 215
+sources = [
+  "https://www.infoq.com/news/2026/11/angular-compiler-rust-typescript",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/high-performing-teams",
+  "https://spreadprivacy.com",
+  "https://x.com/AnotherCodingX/status/2120873802955694362",
+]
