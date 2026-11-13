@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261113-000292"
+draft_id = "DRAFT-20261113-000292"
+subject = "Edge0-145B is a 145-billion-parameter sparse MoE model advertised to run on a single 24GB NVIDIA GPU. It does not fit entirely in VRAM: the Q3_K configuration uses 23.14 GiB of GPU memory plus 31.28 GiB of system RAM"
+created_at = "2026-11-13T14:17:22.407334913+01:00"
+model = "load=ollama/qwen3.5:9b | draft=ollama/qwen3.5:9b"
+tokens_in = 16693
+tokens_out = 847
+sources = [
+  "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+  "https://aicoder.com/news/news-20261113-edge0-145b-120b-open-weights-on-device-latent-moe-10b-active-single-24gb-gpu-terminal-bench-86-5",
+  "https://groundy.com/articles/running-a-145b-llm-on-a-laptop-how-to-check-edge0s-claims/",
+  "https://cctest.ai/en/articles/edge0-open-sources-a-145b-model-for-local-frontier-ai",
+  "https://dev.to/shakeelahmed/a-145b-open-model-that-runs-on-your-laptop-edge0-145b-explained-31a2",
+]
