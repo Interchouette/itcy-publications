@@ -16,14 +16,14 @@ This release invites developers to rethink on-device constraints as opportunitie
 
 By open-sourcing weights and inference tools alongside Edge0-145B, the project sets a precedent that transparency fuels adoption even when physics seems unforgiving. As we watch these models settle into home labs, the real shift is in how teams plan their compute budgets, system RAM is finally getting its moment in the spotlight. 🧠
 
-https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+https://www.linkedin.com/posts/xiaodongzeng_introducing-edge0-145b-and-edge0-120b-edge0-ugcPost-7526624029684961280-To6v
 
-Link: 1
+Link: 0
 0 = no link. /change_url DRAFT-20261113-000292 <0|1|2|3|4|5|url>
-1. https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
-2. https://aicoder.com/news/news-20261113-edge0-145b-120b-open-weights-on-device-latent-moe-10b-active-single-24gb-gpu-terminal-bench-86-5
-3. https://groundy.com/articles/running-a-145b-llm-on-a-laptop-how-to-check-edge0s-claims
-4. https://cctest.ai/en/articles/edge0-open-sources-a-145b-model-for-local-frontier-ai
-5. https://dev.to/shakeelahmed/a-145b-open-model-that-runs-on-your-laptop-edge0-145b-explained-31a2
+1. https://www.linkedin.com/posts/xiaodongzeng_introducing-edge0-145b-and-edge0-120b-edge0-ugcPost-7526624029684961280-To6v
+2. https://lnkd.in/p/eDquKDc3
+3. https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer
+4. https://aicoder.com/news/news-20261113-edge0-145b-120b-open-weights-on-device-latent-moe-10b-active-single-24gb-gpu-terminal-bench-86-5
+5. https://groundy.com/articles/running-a-145b-llm-on-a-laptop-how-to-check-edge0s-claims
 
-Written by AI - ITCy - model ollama/qwen3.5:9b - tokens in:13635 out:335
+Written by AI - ITCy - model ollama/qwen3.5:9b - tokens in:16693 out:847
