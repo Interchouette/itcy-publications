@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261113-000293"
+draft_id = "DRAFT-20261113-000293"
+subject = "Rust 1.100.0 just landed :crab: finally stabilizing the `!` type to mean “never returns”. You can now write `Result<T"
+created_at = "2026-11-13T14:51:44.280879457+01:00"
+model = "load=ollama/qwen3.5:9b | draft=ollama/qwen3.5:9b"
+tokens_in = 29925
+tokens_out = 1047
+sources = [
+  "https://lwn.net/Articles/1091015/",
+  "https://techaiwire.com/articles/rust-never-type-stabilized/",
+  "https://lwn.net/Articles/1092273/",
+  "https://www.phoronix.com/news/Rust-1.100-Released",
+  "https://linuxiac.com/rust-1-100-stabilizes-never-type-after-a-decade-of-development/",
+]
