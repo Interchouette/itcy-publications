@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261116-000296"
+draft_id = "DRAFT-20261116-000296"
+subject = "More than 30,000 distinct secrets were found in Claude Code’s local settings files on public GitHub, with thousands still valid when detected."
+created_at = "2026-11-16T12:48:02.450023804+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 17162
+tokens_out = 255
+sources = [
+  "https://www.infoworld.com/article/4247344/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem-2.html",
+  "https://us.resources.infoworld.com",
+  "https://www.csoonline.com/article/4247336/claude-codes-dont-ask-again-button-has-a-secrets-spilling-problem.html",
+  "https://labs.cloudsecurityalliance.org/research/csa-research-note-claude-code-settings-secret-leak-20261108",
+  "https://casrai.org/news/claude-code-settings-local-json-secrets-github-2026",
+]
