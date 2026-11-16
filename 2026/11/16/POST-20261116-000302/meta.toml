@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261116-000302"
+draft_id = "DRAFT-20261116-000302"
+subject = "Samsung’s LittleBit squeezes a 13B model into under 1 GB"
+created_at = "2026-11-16T15:54:40.342610605+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16492
+tokens_out = 292
+sources = [
+  "https://theindependentai.com/news/2026-11-16/samsung-littlebit-13b-model-under-1gb",
+  "https://www.explainx.ai/blog/samsung-littlebit-13b-under-1gb-sub-1-bit-llm-2026",
+  "https://magica.com/news/samsung-littlebit-13b-llm-under-1gb",
+  "https://research.samsung.com/blog/LittleBit-Ultra-Low-Bit-Quantization-via-Latent-Factorization",
+  "https://startupfortune.com/samsungs-littlebit-squeezes-ai-models-to-a-tenth-of-a-bit-per-weight",
+]
