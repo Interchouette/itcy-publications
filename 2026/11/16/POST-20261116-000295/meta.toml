@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261116-000295"
+draft_id = "DRAFT-20261116-000295"
+subject = "Rust Namespace Support still not in in 2026"
+created_at = "2026-11-16T02:29:56.242056629+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 4984
+tokens_out = 265
+sources = [
+  "https://rustify.rs/articles/whats-new-in-rust-2026",
+  "https://github.com/rust-lang/goals/issues/256",
+  "https://discuss.python.org/t/rust-for-cpython-progress-update-april-2026/106895",
+  "https://goals.rust-lang.org/2026/open-namespaces.html",
+  "https://doc.rust-lang.org/reference/names/namespaces.html",
+]
