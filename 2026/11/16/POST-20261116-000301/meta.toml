@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261116-000301"
+draft_id = "DRAFT-20261116-000301"
+subject = "GPUs Techie uses voltage glitching hack to turn $2"
+created_at = "2026-11-16T14:32:27.672029767+01:00"
+model = "load=ollama/qwen3.5:9b | draft=ollama/qwen3.5:9b"
+tokens_in = 16471
+tokens_out = 657
+sources = [
+  "https://www.tomshardware.com/news/archive",
+  "https://www.gate.com/es/news/detail/NVDA/techie-converts-2500-nvidia-mining-gpu-to-20000-a100-using-voltage-glitch-25576500",
+  "https://www.marketbeat.com/articles/nvidias-500-billion-gpu-financing-deal-fuels-path-toward-270/",
+  "https://www.gate.com/id/news/detail/NVDA/techie-converts-2500-nvidia-mining-gpu-to-20000-a100-using-voltage-glitch-25576500",
+  "https://beincrypto.com/smci-nvidia-gpu-smuggling-china-indictment/",
+]
