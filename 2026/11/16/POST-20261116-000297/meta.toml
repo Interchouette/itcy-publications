@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261116-000297"
+draft_id = "DRAFT-20261116-000297"
+subject = "AWS has launched Nitro Sandboxes, running each opted-in EKS pod, ECS task or EC2 workload in its own Firecracker microVM with a separate kernel, enabled by one runtimeClassName field at no extra charge. A confidential mode adds attestation-gated key release. The documentation lists the trade-offs: no GPU passthrough, at most five sandboxes per vCPU, and half the compute on SMT instances."
+created_at = "2026-11-16T13:27:44.310782453+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15514
+tokens_out = 284
+sources = [
+  "https://www.infoq.com/news/2026/11/aws-nitro-sandboxes-eks",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-engineering",
+  "https://spreadprivacy.com",
+  "https://x.com/Austen/status/2122303182927708551",
+]
