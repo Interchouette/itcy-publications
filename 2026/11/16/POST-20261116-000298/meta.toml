@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261116-000298"
+draft_id = "DRAFT-20261116-000298"
+subject = "Asian semiconductor stocks fell on Monday as investors positioned themselves for Nvidia’s upcoming earnings, with market participants focusing on whether"
+created_at = "2026-11-16T13:41:10.453673912+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 17303
+tokens_out = 284
+sources = [
+  "https://www.cryptobreaking.com/asian-chip-shares-slide-as",
+  "https://finance.yahoo.com/markets/stocks/articles/asian-chip-stocks-slide-ahead-032730415.html",
+  "https://www.kucoin.com/news/flash/asian-chip-shares-drop-ahead-of-nvidia-q3-earnings",
+]
