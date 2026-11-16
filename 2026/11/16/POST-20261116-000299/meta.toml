@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261116-000299"
+draft_id = "DRAFT-20261116-000299"
+subject = "Attackers hijack about 64"
+created_at = "2026-11-16T14:08:47.790168080+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15886
+tokens_out = 244
+sources = [
+  "https://www.cointribune.com/en/a-lightning-attack-hacked-64000-bitcoin-mining-machines",
+  "https://read2earn.cointribune.com/dashboard",
+  "https://www.htx.com/news/ai-attack-targets-mining-64000-btc-mining-machines-hijacked-5yywV2Pr",
+  "https://dailycoin.com/bitcoin-miners-hijacked-luxor-attack-btc-impact",
+  "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack",
+]
