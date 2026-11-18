@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261118-000304"
+draft_id = "DRAFT-20261118-000304"
+subject = "Microsoft’s internal AI development is starting to show results, with the MAI family of models and the Maia inference platform — both designed to lower token costs."
+created_at = "2026-11-18T12:50:56.324973413+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16344
+tokens_out = 239
+sources = [
+  "https://www.infoworld.com/article/4245368/exploring-microsoft-ai-foundation-models.html",
+  "https://us.resources.infoworld.com",
+  "https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments",
+  "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture",
+  "https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models",
+]
