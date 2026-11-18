@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261118-000307"
+draft_id = "DRAFT-20261118-000307"
+subject = "A/B testing for AI agents"
+created_at = "2026-11-18T14:37:14.268184964+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15360
+tokens_out = 335
+sources = [
+  "https://www.infoq.com/news/2026/11/datadog-ai-agent-observability",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/high-performing-teams",
+  "https://www.visibilitystack.ai/signals/article/ab-test-content-ai-citation-gains",
+  "https://arxiv.org/abs/2608.02345",
+]
