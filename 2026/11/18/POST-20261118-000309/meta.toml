@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261118-000309"
+draft_id = "DRAFT-20261118-000309"
+subject = "Google’s Sleep Framework"
+created_at = "2026-11-18T16:32:38.299240061+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16739
+tokens_out = 257
+sources = [
+  "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+  "https://policies.google.com/technologies/cookies",
+  "https://explainx.ai/blog/google-research-sleep-framework-continual-learning-llm-memory-consolidation-dreaming-2026",
+  "https://agientry.com/en/articles/sleep-framework-llm-continual-learning",
+  "https://interfacewire.com/articles/google-s-sleep-framework-teaches-llms-to-stop-forgetting",
+]
