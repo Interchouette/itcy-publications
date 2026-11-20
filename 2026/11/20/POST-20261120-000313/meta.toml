@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261120-000313"
+draft_id = "DRAFT-20261120-000313"
+subject = "Heard ya'll like #rustlang, so I whipped up \"Rusty Stars \""
+created_at = "2026-11-20T15:23:14.989963192+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 14686
+tokens_out = 216
+sources = [
+  "https://x.com/_mfridman/status/2123742214333637027",
+  "https://rustystars.dev",
+  "https://phxdp.blogspot.com/2010/11/rusty-stars.html",
+  "https://x.com/IamGeneX/status/2123784276877729811",
+]
