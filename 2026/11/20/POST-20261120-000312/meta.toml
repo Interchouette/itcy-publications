@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261120-000312"
+draft_id = "DRAFT-20261120-000312"
+subject = "Docker unveils a new brand identity and logo, reflecting its growing focus on AI agents, security, and trusted development environments."
+created_at = "2026-11-20T15:06:14.106146330+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16372
+tokens_out = 202
+sources = [
+  "https://x.com/linuxiac/status/2123765555723170229",
+  "https://linuxiac.com",
+  "https://containersecurity.dev/blog/docker-rebrand-2026",
+  "https://www.c-sharpcorner.com/article/docker-has-a-new-look-and-a-bigger-ambition-beyond-containers",
+  "https://gotburnout.io/en/news/docker-rebrands-and-moves-into-the-ai-agent-era-3703",
+]
