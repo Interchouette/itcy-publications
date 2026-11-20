@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261120-000311"
+draft_id = "DRAFT-20261120-000311"
+subject = "Zero-knowledge proofs for LLMs “make it harder for attackers to hijack a chat, or enable safety evaluators to verify that the model they’re testing is the same one being served to customers.” However, proving LLM inference remains expensive and requires substantial cryptographic"
+created_at = "2026-11-20T14:41:13.551799777+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 7222
+tokens_out = 234
+sources = [
+  "https://x.com/ddkang/status/2123445796188443051",
+  "https://spreadprivacy.com",
+  "https://x.com/upplai/status/2123773606584893896",
+]
