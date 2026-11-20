@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261120-000310"
+draft_id = "DRAFT-20261120-000310"
+subject = "A now patched vulnerability in WinGet&#039;s moderation tooling could have handed attackers a Microsoft employee&#039;s GitHub credentials through a single pull request."
+created_at = "2026-11-20T14:24:30.126574576+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 32337
+tokens_out = 538
+sources = [
+  "https://www.infoworld.com/article/4251130/a-single-pull-request-could-have-handed-attackers-the-keys-to-microsofts-software-supply-chain-2.html",
+  "https://us.resources.infoworld.com",
+  "https://expertinsights.com/news/microsoft-winget-github-token-flaw",
+  "https://windowsforum.com/news/winget-repository-token-leak-flaw-microsoft-patches-moderator-triage-script.453063",
+  "https://www.csoonline.com/article/4251117/a-single-pull-request-could-have-handed-attackers-the-keys-to-microsofts-software-supply-chain.html",
+]
