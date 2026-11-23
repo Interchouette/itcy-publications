@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261123-000318"
+draft_id = "DRAFT-20261123-000318"
+subject = "Enterprises should look hard at agentic AI, but they should also remember what happened when cloud-native, microservices, SOA, and distributed systems became technology religions."
+created_at = "2026-11-23T15:33:33.923412751+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16372
+tokens_out = 274
+sources = [
+  "https://www.infoworld.com/article/4249734/agentic-ai-repeats-same-old-enterprise-adoption-cycle.html",
+  "https://us.resources.infoworld.com",
+  "https://www.sutherlandglobal.com/insights/blog/ai-native-agentic-enterprise",
+  "https://www.linuxfoundation.org/blog/how-should-enterprises-transition-to-the-agentic-era",
+  "https://www.deloitte.com/global/en/insights/topics/technology-management/tech-trends/2026/agentic-ai-strategy.html",
+]
