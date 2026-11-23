@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261123-000317"
+draft_id = "DRAFT-20261123-000317"
+subject = "*AWS is offering a way to run GPU-hosted AI models using something closer to Lambda instead of managing your own GPU servers"
+created_at = "2026-11-23T13:47:19.077817030+01:00"
+model = "rework=ollama/qwen3.5:9b"
+tokens_in = 8691
+tokens_out = 257
+sources = [
+  "https://www.infoq.com/news/2026/11/aws-lambda-gpu-managed-instances",
+  "https://events.infoq.com",
+  "https://certification.qconferences.com/ai-engineering",
+  "https://futuretweets.com/aws-lambda-gpu-inference-setup-2026",
+  "https://www.newscast.tech/aws-lambda-gpu-instances-serverless-ai",
+]
