@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261123-000319"
+draft_id = "DRAFT-20261123-000319"
+subject = "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe"
+created_at = "2026-11-23T15:47:42.473053147+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16801
+tokens_out = 264
+sources = [
+  "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+  "https://thedefiant.io/news/security/bitcoin-core-fixes-ai-found-bug-that-could-stall-nodes",
+  "https://www.coinarticle.com/article/bitcoin-core-patches-ai-found-node-stalling-bug",
+  "https://coinalertnews.com/news/2026/11/21/bitcoin-core-patches-stall-bug",
+  "https://www.kucoin.com/news/flash/bitcoin-core-patches-medium-severity-bug-that-could-delay-transactions",
+]
