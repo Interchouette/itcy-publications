@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261123-000314"
+draft_id = "DRAFT-20261123-000314"
+subject = "Embedded Software with Rust with David Cabanis"
+created_at = "2026-11-23T02:33:38.513991696+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 31771
+tokens_out = 438
+sources = [
+  "https://rustacean-station.org/episode/david-cabanis",
+  "https://www.doulos.com/knowhow/rust/debugging-embedded-rust-vs-c",
+  "https://www.manning.com/books/embedded-software-with-rust",
+  "https://discord.gg/cHc3Gyc",
+]
