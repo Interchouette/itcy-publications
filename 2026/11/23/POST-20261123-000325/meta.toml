@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261123-000325"
+draft_id = "DRAFT-20261123-000325"
+subject = "Appwrite is moving its server from PHP to Rust"
+created_at = "2026-11-23T17:49:36.083706838+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15946
+tokens_out = 304
+sources = [
+  "https://chatgpt.com/c/6b039271-8d8c-83ed-a57d-302f7898a2e3",
+  "https://openai.com/chatgpt/pricing",
+  "https://help.openai.com",
+  "https://appwrite.io/blog/post/appwrite-is-moving-from-php-to-rust",
+  "https://github.com/appwrite/appwrite/issues/4423",
+]
