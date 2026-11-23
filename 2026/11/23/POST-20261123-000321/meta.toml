@@ -1,0 +1,12 @@
+kind = "post"
+post_id = "POST-20261123-000321"
+draft_id = "DRAFT-20261123-000321"
+subject = "Cursor-to-Grok Build rename"
+created_at = "2026-11-23T16:40:22.574798856+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15275
+tokens_out = 257
+sources = [
+  "https://agentrags.com/story/c302fcecc2",
+  "https://knownfix.ai",
+]
