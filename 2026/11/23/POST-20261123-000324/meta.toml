@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261123-000324"
+draft_id = "DRAFT-20261123-000324"
+subject = "ripgrep (rg) is one of the fundamental building blocks of agentic coding tools and IDEs Tools such as Cursor Claude Code and other coding agents can use `rg` as part of their repository exploration workflow."
+created_at = "2026-11-23T17:22:14.061336499+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16044
+tokens_out = 358
+sources = [
+  "https://newreleases.io/project/github/BurntSushi/ripgrep/release/16.0.0",
+  "https://github.com/newreleasesio",
+  "https://cursor.com/blog/fast-regex-search",
+  "https://www.learnwithparam.com/blog/ripgrep-coding-agents-fast-code-search",
+]
