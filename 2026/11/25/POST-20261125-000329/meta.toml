@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261125-000329"
+draft_id = "DRAFT-20261125-000329"
+subject = "Two malicious versions of Microsoft’s AI agent SDK on PyPI collected secrets and requested fresh cloud tokens from build pipelines before they were taken down."
+created_at = "2026-11-25T15:38:03.287936094+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16495
+tokens_out = 340
+sources = [
+  "https://www.infoworld.com/article/4250167/attackers-hijack-microsofts-agent-framework-package-to-steal-azure-and-ci-credentials-2.html",
+  "https://us.resources.infoworld.com",
+  "https://www.techrepublic.com/article/news-microsoft-agent-framework-pypi-credential-theft",
+  "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials",
+  "https://www.msn.com/en-xl/news/other/microsoft-agent-framework-compromised-on-pypi-in-major-supply-chain-attack/ar-AA2hLyLH",
+]
