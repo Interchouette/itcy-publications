@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261125-000327"
+draft_id = "DRAFT-20261125-000327"
+subject = "Open-Source Shirudo Enables Live Kernel Patching via eBPF Without Reboots"
+created_at = "2026-11-25T13:42:29.652816520+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16119
+tokens_out = 262
+sources = [
+  "https://assets.theregister.com/2026/11/24/20261",
+  "https://account.theregister.com/login",
+  "https://www.theregister.com",
+]
