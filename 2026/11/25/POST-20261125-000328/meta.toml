@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261125-000328"
+draft_id = "DRAFT-20261125-000328"
+subject = "Relate is a new Rust implementation by Neo4j: An Embedded Database for AI Agents"
+created_at = "2026-11-25T13:51:19.036193122+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15930
+tokens_out = 217
+sources = [
+  "https://neo4j.com/press-releases/announcing-relate-by-neo4j",
+  "https://relatedb.ai",
+  "https://console.neo4j.io",
+  "https://aicoder.com/news/news-20261113-neo4j-relate-open-source-embedded-graph-database-for-ai-agents-rust-cypher-mcp-apache-2",
+]
