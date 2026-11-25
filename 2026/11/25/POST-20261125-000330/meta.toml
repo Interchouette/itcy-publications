@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261125-000330"
+draft_id = "DRAFT-20261125-000330"
+subject = "proof-oriented programming in cuda-oxide"
+created_at = "2026-11-25T16:31:38.432189230+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15357
+tokens_out = 254
+sources = [
+  "https://nihalpasham.github.io/posts/provably-safe-gpu-kernels",
+  "https://github.com/NVIDIA/cuda-rust",
+  "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels",
+  "https://nvidia.github.io/cuda-rust/cuda-oxide/index.html",
+]
