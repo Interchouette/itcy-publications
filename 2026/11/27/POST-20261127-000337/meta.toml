@@ -1,0 +1,13 @@
+kind = "post"
+post_id = "POST-20261127-000337"
+draft_id = "DRAFT-20261127-000337"
+subject = "Kioxia and NVIDIA are experimenting with using NVMe SSDs to extend effective GPU memory capacity to over 1 petabyte"
+created_at = "2026-11-27T15:15:32.605085272+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 16808
+tokens_out = 295
+sources = [
+  "https://semiconleadersasia.com/news/64/1976/kioxia-and-nvidia-demonstrate-petabyte-scale-gpu-memory-expansion-using-nvme-ssds.html",
+  "https://www.worldsemiconleaders.com",
+  "https://hothardware.com/news/kioxia-nvidia-tap-144-ssds-stretch-gpu-memory-1-petabyte",
+]
