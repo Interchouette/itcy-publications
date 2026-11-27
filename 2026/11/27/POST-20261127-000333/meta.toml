@@ -1,0 +1,14 @@
+kind = "post"
+post_id = "POST-20261127-000333"
+draft_id = "DRAFT-20261127-000333"
+subject = "*Inkling 2 Mini* from Thinking Machines Lab released on 20 November 2026"
+created_at = "2026-11-27T14:11:03.501190746+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15969
+tokens_out = 274
+sources = [
+  "https://goremy.ai/blog/articles/inkling-2-mini-review-benchmarks-vs-qwen-hands-on",
+  "https://thinkingmachines.ai/news/inkling-2-mini",
+  "https://artificialanalysis.ai/articles/inkling-2-mini",
+  "https://huggingface.co/blog/inkling2mini",
+]
