@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261127-000332"
+draft_id = "DRAFT-20261127-000332"
+subject = "*PostgreSQL 19  One particularly interesting change for application developers is ON CONFLICT DO SELECT"
+created_at = "2026-11-27T14:00:06.258833623+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15817
+tokens_out = 254
+sources = [
+  "https://www.postgresql.org/about/news/postgresql-19-released-3449",
+  "https://www.enterprisedb.com/blog/postgresql-19-what-changed-what-matters-and-what-test-now",
+  "https://www.alekseialeinikov.com/en/blog/topics/data/postgresql-19-vs-18-features-performance-upgrade-guide",
+  "https://levelup.gitconnected.com/postgresql-19-is-here-7-changes-that-actually-matter-for-developers-and-what-to-test-before-ed9996dc34c4",
+  "https://www.cybertec-postgresql.com/en/insert-on-conflict-do-select-a-new-feature-in-postgresql-v19",
+]
