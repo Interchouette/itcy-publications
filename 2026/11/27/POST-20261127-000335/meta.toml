@@ -1,0 +1,15 @@
+kind = "post"
+post_id = "POST-20261127-000335"
+draft_id = "DRAFT-20261127-000335"
+subject = "Carbon from Google to challenge Rust"
+created_at = "2026-11-27T14:29:41.906877564+01:00"
+model = "load=short-load/cite+web+x | draft=ollama/qwen3.5:9b"
+tokens_in = 15449
+tokens_out = 275
+sources = [
+  "https://github.com/carbon-language/carbon-lang/discussions/8170",
+  "https://lwn.net/Articles/1036912",
+  "https://kuczma.dev/articles/carbon-vs-rust",
+  "https://techpreneurr.medium.com/i-spent-3-months-analyzing-carbon-vs-rust-vs-zig-heres-what-shocked-me-8a0cbb9e791e",
+  "https://daily.dev/posts/comparing-rust-to-carbon-hv2rxpu1q",
+]
